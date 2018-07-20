@@ -1,9 +1,8 @@
-<p align="center"><img src="https://ibb.co/dfnWtd" width = 250 /></p>
+<p align="center"><img src="https://camo.githubusercontent.com/98ae72843e29b468df31a1c7cde41bce64198722/687474703a2f2f7370616365617070736368616c6c656e676562756c67617269612e65752f73697465732f64656661756c742f66696c65732f736f6674756e692e706e67" width = 250 /></p>
 
 # <a href="https://softuni.bg/trainings/1896/programming-basics-with-csharp-march-2018/open#lesson-7992"><p align="center">Programming Basics with C# - March 2018<p></a>
 
-
-## <a href="" > CERTIFICATE </a>
+## <a align="center" href="" > CERTIFICATE </a>
 
 ## EXERCISES
 * <a href="" > Simple Calculations </a>
