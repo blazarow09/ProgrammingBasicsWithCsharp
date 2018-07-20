@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\14.NumberTable\bin\Debug\14.NumberTable.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\14.NumberTable\bin\Debug\14.NumberTable.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\14.NumberTable\bin\Debug\14.NumberTable.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\14.NumberTable\obj\Debug\14.NumberTable.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\14.NumberTable\obj\Debug\14.NumberTable.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\14.NumberTable\obj\Debug\14.NumberTable.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\14.NumberTable\obj\Debug\14.NumberTable.pdb

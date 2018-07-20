@@ -1,0 +1,6 @@
+C:\Users\34802\source\repos\07.AdvancedLoops\01.Numbers1N\bin\Debug\01.Numbers1N.exe.config
+C:\Users\34802\source\repos\07.AdvancedLoops\01.Numbers1N\bin\Debug\01.Numbers1N.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\01.Numbers1N\bin\Debug\01.Numbers1N.pdb
+C:\Users\34802\source\repos\07.AdvancedLoops\01.Numbers1N\obj\Debug\02.Numbers1N.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\07.AdvancedLoops\01.Numbers1N\obj\Debug\01.Numbers1N.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\01.Numbers1N\obj\Debug\01.Numbers1N.pdb

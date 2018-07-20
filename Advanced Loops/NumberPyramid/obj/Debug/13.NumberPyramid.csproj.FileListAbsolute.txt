@@ -1,0 +1,6 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\13.NumberPyramid\bin\Debug\13.NumberPyramid.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\13.NumberPyramid\bin\Debug\13.NumberPyramid.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\13.NumberPyramid\bin\Debug\13.NumberPyramid.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\13.NumberPyramid\obj\Debug\13.NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\13.NumberPyramid\obj\Debug\13.NumberPyramid.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\13.NumberPyramid\obj\Debug\13.NumberPyramid.pdb

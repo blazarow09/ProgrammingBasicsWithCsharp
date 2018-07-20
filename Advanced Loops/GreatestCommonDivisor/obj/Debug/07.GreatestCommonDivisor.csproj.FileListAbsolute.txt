@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\07.AdvancedLoops\07.GreatestCommonDivisor\bin\Debug\07.GreatestCommonDivisor.exe.config
+C:\Users\34802\source\repos\07.AdvancedLoops\07.GreatestCommonDivisor\bin\Debug\07.GreatestCommonDivisor.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\07.GreatestCommonDivisor\bin\Debug\07.GreatestCommonDivisor.pdb
+C:\Users\34802\source\repos\07.AdvancedLoops\07.GreatestCommonDivisor\obj\Debug\07.GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\07.AdvancedLoops\07.GreatestCommonDivisor\obj\Debug\07.GreatestCommonDivisor.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\07.GreatestCommonDivisor\obj\Debug\07.GreatestCommonDivisor.pdb
+C:\Users\34802\source\repos\07.AdvancedLoops\07.GreatestCommonDivisor\obj\Debug\07.GreatestCommonDivisor.csprojResolveAssemblyReference.cache

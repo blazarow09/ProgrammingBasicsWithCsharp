@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\07.AdvancedLoops\08.Factorial\bin\Debug\08.Factorial.exe.config
+C:\Users\34802\source\repos\07.AdvancedLoops\08.Factorial\bin\Debug\08.Factorial.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\08.Factorial\bin\Debug\08.Factorial.pdb
+C:\Users\34802\source\repos\07.AdvancedLoops\08.Factorial\obj\Debug\08.Factorial.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\07.AdvancedLoops\08.Factorial\obj\Debug\08.Factorial.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\07.AdvancedLoops\08.Factorial\obj\Debug\08.Factorial.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\08.Factorial\obj\Debug\08.Factorial.pdb

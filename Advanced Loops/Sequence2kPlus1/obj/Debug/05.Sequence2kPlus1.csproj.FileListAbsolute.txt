@@ -1,0 +1,6 @@
+C:\Users\34802\source\repos\07.AdvancedLoops\05.Sequence2kPlus1\bin\Debug\05.Sequence2kPlus1.exe.config
+C:\Users\34802\source\repos\07.AdvancedLoops\05.Sequence2kPlus1\bin\Debug\05.Sequence2kPlus1.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\05.Sequence2kPlus1\bin\Debug\05.Sequence2kPlus1.pdb
+C:\Users\34802\source\repos\07.AdvancedLoops\05.Sequence2kPlus1\obj\Debug\05.Sequence2kPlus1.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\07.AdvancedLoops\05.Sequence2kPlus1\obj\Debug\05.Sequence2kPlus1.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\05.Sequence2kPlus1\obj\Debug\05.Sequence2kPlus1.pdb

@@ -1,0 +1,6 @@
+C:\Users\34802\source\repos\07.AdvancedLoops\09.SumDigits\bin\Debug\09.SumDigits.exe.config
+C:\Users\34802\source\repos\07.AdvancedLoops\09.SumDigits\bin\Debug\09.SumDigits.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\09.SumDigits\bin\Debug\09.SumDigits.pdb
+C:\Users\34802\source\repos\07.AdvancedLoops\09.SumDigits\obj\Debug\09.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\07.AdvancedLoops\09.SumDigits\obj\Debug\09.SumDigits.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\09.SumDigits\obj\Debug\09.SumDigits.pdb

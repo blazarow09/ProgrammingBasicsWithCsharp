@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\07.AdvancedLoops\11.EnterEvenNumber\bin\Debug\11.EnterEvenNumber.exe.config
+C:\Users\34802\source\repos\07.AdvancedLoops\11.EnterEvenNumber\bin\Debug\11.EnterEvenNumber.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\11.EnterEvenNumber\bin\Debug\11.EnterEvenNumber.pdb
+C:\Users\34802\source\repos\07.AdvancedLoops\11.EnterEvenNumber\obj\Debug\11.EnterEvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\07.AdvancedLoops\11.EnterEvenNumber\obj\Debug\11.EnterEvenNumber.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\11.EnterEvenNumber\obj\Debug\11.EnterEvenNumber.pdb
+C:\Users\34802\source\repos\07.AdvancedLoops\11.EnterEvenNumber\obj\Debug\11.EnterEvenNumber.csprojResolveAssemblyReference.cache

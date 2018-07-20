@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\07.NOD_withFOR\bin\Debug\07.NOD_withFOR.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\07.NOD_withFOR\bin\Debug\07.NOD_withFOR.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\07.NOD_withFOR\bin\Debug\07.NOD_withFOR.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\07.NOD_withFOR\obj\Debug\07.NOD_withFOR.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\07.NOD_withFOR\obj\Debug\07.NOD_withFOR.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\07.NOD_withFOR\obj\Debug\07.NOD_withFOR.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\07.NOD_withFOR\obj\Debug\07.NOD_withFOR.pdb

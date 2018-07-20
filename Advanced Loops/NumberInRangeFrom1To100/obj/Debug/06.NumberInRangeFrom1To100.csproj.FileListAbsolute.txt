@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\07.AdvancedLoops\06.NumberInRangeFrom1To100\bin\Debug\06.NumberInRangeFrom1To100.exe.config
+C:\Users\34802\source\repos\07.AdvancedLoops\06.NumberInRangeFrom1To100\bin\Debug\06.NumberInRangeFrom1To100.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\06.NumberInRangeFrom1To100\bin\Debug\06.NumberInRangeFrom1To100.pdb
+C:\Users\34802\source\repos\07.AdvancedLoops\06.NumberInRangeFrom1To100\obj\Debug\06.NumberInRangeFrom1To100.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\07.AdvancedLoops\06.NumberInRangeFrom1To100\obj\Debug\06.NumberInRangeFrom1To100.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\07.AdvancedLoops\06.NumberInRangeFrom1To100\obj\Debug\06.NumberInRangeFrom1To100.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\06.NumberInRangeFrom1To100\obj\Debug\06.NumberInRangeFrom1To100.pdb

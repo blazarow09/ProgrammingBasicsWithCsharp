@@ -1,0 +1,13 @@
+C:\Users\34802\source\repos\07.AdvancedLoops\12.Fibonacci\bin\Debug\12.Fibonacci.exe.config
+C:\Users\34802\source\repos\07.AdvancedLoops\12.Fibonacci\bin\Debug\12.Fibonacci.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\12.Fibonacci\bin\Debug\12.Fibonacci.pdb
+C:\Users\34802\source\repos\07.AdvancedLoops\12.Fibonacci\obj\Debug\12.Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\07.AdvancedLoops\12.Fibonacci\obj\Debug\12.Fibonacci.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\12.Fibonacci\obj\Debug\12.Fibonacci.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\12.Fibonacci\bin\Debug\12.Fibonacci.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\12.Fibonacci\bin\Debug\12.Fibonacci.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\12.Fibonacci\bin\Debug\12.Fibonacci.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\12.Fibonacci\obj\Debug\12.Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\12.Fibonacci\obj\Debug\12.Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\12.Fibonacci\obj\Debug\12.Fibonacci.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.AdvancedLoops\12.Fibonacci\obj\Debug\12.Fibonacci.pdb

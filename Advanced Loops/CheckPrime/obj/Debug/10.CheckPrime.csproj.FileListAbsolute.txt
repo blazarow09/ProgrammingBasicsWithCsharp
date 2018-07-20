@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\07.AdvancedLoops\10.CheckPrime\bin\Debug\10.CheckPrime.exe.config
+C:\Users\34802\source\repos\07.AdvancedLoops\10.CheckPrime\bin\Debug\10.CheckPrime.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\10.CheckPrime\bin\Debug\10.CheckPrime.pdb
+C:\Users\34802\source\repos\07.AdvancedLoops\10.CheckPrime\obj\Debug\10.CheckPrime.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\07.AdvancedLoops\10.CheckPrime\obj\Debug\10.CheckPrime.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\07.AdvancedLoops\10.CheckPrime\obj\Debug\10.CheckPrime.exe
+C:\Users\34802\source\repos\07.AdvancedLoops\10.CheckPrime\obj\Debug\10.CheckPrime.pdb
