@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\PBExam03September2017\bin\Debug\PBExam03September2017.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\PBExam03September2017\bin\Debug\PBExam03September2017.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\PBExam03September2017\bin\Debug\PBExam03September2017.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\PBExam03September2017\obj\Debug\01.TailoringWorkshop.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\PBExam03September2017\obj\Debug\01.TailoringWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\PBExam03September2017\obj\Debug\PBExam03September2017.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\PBExam03September2017\obj\Debug\PBExam03September2017.pdb

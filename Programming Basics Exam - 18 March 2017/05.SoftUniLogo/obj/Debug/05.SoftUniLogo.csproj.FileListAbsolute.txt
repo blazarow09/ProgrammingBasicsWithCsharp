@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\05.SoftUniLogo\bin\Debug\05.SoftUniLogo.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\05.SoftUniLogo\bin\Debug\05.SoftUniLogo.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\05.SoftUniLogo\bin\Debug\05.SoftUniLogo.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\05.SoftUniLogo\obj\Debug\05.SoftUniLogo.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\05.SoftUniLogo\obj\Debug\05.SoftUniLogo.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\05.SoftUniLogo\obj\Debug\05.SoftUniLogo.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\05.SoftUniLogo\obj\Debug\05.SoftUniLogo.pdb

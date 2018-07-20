@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\04.Hospital\bin\Debug\04.Hospital.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\04.Hospital\bin\Debug\04.Hospital.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\04.Hospital\bin\Debug\04.Hospital.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\04.Hospital\obj\Debug\04.Hospital.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\04.Hospital\obj\Debug\04.Hospital.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\04.Hospital\obj\Debug\04.Hospital.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\04.Hospital\obj\Debug\04.Hospital.pdb

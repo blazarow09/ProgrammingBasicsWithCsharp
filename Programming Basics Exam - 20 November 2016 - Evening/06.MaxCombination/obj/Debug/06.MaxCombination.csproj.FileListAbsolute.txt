@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\06.MaxCombination\bin\Debug\06.MaxCombination.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\06.MaxCombination\bin\Debug\06.MaxCombination.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\06.MaxCombination\bin\Debug\06.MaxCombination.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\06.MaxCombination\obj\Debug\06.MaxCombination.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\06.MaxCombination\obj\Debug\06.MaxCombination.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\06.MaxCombination\obj\Debug\06.MaxCombination.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\06.MaxCombination\obj\Debug\06.MaxCombination.pdb

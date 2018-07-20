@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\ExamPreparation\Bus\bin\Debug\Bus.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\Bus\bin\Debug\Bus.exe
+C:\Users\E6420\source\repos\ExamPreparation\Bus\bin\Debug\Bus.pdb
+C:\Users\E6420\source\repos\ExamPreparation\Bus\obj\Debug\Bus.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ExamPreparation\Bus\obj\Debug\Bus.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\Bus\obj\Debug\Bus.exe
+C:\Users\E6420\source\repos\ExamPreparation\Bus\obj\Debug\Bus.pdb

@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\tretaLekciq\3numbers\bin\Debug\3numbers.exe.config
+C:\Users\34802\Desktop\tretaLekciq\3numbers\bin\Debug\3numbers.exe
+C:\Users\34802\Desktop\tretaLekciq\3numbers\bin\Debug\3numbers.pdb
+C:\Users\34802\Desktop\tretaLekciq\3numbers\obj\Debug\3numbers.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\tretaLekciq\3numbers\obj\Debug\3numbers.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\tretaLekciq\3numbers\obj\Debug\3numbers.exe
+C:\Users\34802\Desktop\tretaLekciq\3numbers\obj\Debug\3numbers.pdb

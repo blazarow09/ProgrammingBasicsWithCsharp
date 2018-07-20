@@ -1,0 +1,14 @@
+C:\Users\34802\source\repos\05.SimpleLoops\12.EqualPairs\bin\Debug\12.EqualPairs.exe.config
+C:\Users\34802\source\repos\05.SimpleLoops\12.EqualPairs\bin\Debug\12.EqualPairs.exe
+C:\Users\34802\source\repos\05.SimpleLoops\12.EqualPairs\bin\Debug\12.EqualPairs.pdb
+C:\Users\34802\source\repos\05.SimpleLoops\12.EqualPairs\obj\Debug\12.EqualPairs.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\05.SimpleLoops\12.EqualPairs\obj\Debug\12.EqualPairs.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\05.SimpleLoops\12.EqualPairs\obj\Debug\12.EqualPairs.exe
+C:\Users\34802\source\repos\05.SimpleLoops\12.EqualPairs\obj\Debug\12.EqualPairs.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\05.SimpleLoops\12.EqualPairs\bin\Debug\12.EqualPairs.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\05.SimpleLoops\12.EqualPairs\bin\Debug\12.EqualPairs.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\05.SimpleLoops\12.EqualPairs\bin\Debug\12.EqualPairs.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\05.SimpleLoops\12.EqualPairs\obj\Debug\12.EqualPairs.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\05.SimpleLoops\12.EqualPairs\obj\Debug\12.EqualPairs.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\05.SimpleLoops\12.EqualPairs\obj\Debug\12.EqualPairs.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\05.SimpleLoops\12.EqualPairs\obj\Debug\12.EqualPairs.pdb

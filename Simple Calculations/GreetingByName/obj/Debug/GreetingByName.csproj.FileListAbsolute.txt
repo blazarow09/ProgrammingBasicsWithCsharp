@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\Sumator\GreetingByName\bin\Debug\GreetingByName.exe.config
+C:\Users\34802\source\repos\Sumator\GreetingByName\bin\Debug\GreetingByName.exe
+C:\Users\34802\source\repos\Sumator\GreetingByName\bin\Debug\GreetingByName.pdb
+C:\Users\34802\source\repos\Sumator\GreetingByName\obj\Debug\GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\Sumator\GreetingByName\obj\Debug\GreetingByName.exe
+C:\Users\34802\source\repos\Sumator\GreetingByName\obj\Debug\GreetingByName.pdb
+C:\Users\34802\source\repos\Sumator\GreetingByName\obj\Debug\GreetingByName.csprojResolveAssemblyReference.cache

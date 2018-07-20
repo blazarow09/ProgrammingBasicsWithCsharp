@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\02.SleepyCatTom\bin\Debug\02.SleepyCatTom.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\02.SleepyCatTom\bin\Debug\02.SleepyCatTom.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\02.SleepyCatTom\bin\Debug\02.SleepyCatTom.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\02.SleepyCatTom\obj\Debug\02.SleepyCatTom.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\02.SleepyCatTom\obj\Debug\02.SleepyCatTom.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\02.SleepyCatTom\obj\Debug\02.SleepyCatTom.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\02.SleepyCatTom\obj\Debug\02.SleepyCatTom.pdb

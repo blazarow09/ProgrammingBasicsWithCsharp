@@ -1,0 +1,7 @@
+c:\users\34802\source\repos\TretaLekciq\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe.config
+c:\users\34802\source\repos\TretaLekciq\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe
+c:\users\34802\source\repos\TretaLekciq\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.pdb
+c:\users\34802\source\repos\TretaLekciq\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csproj.CoreCompileInputs.cache
+c:\users\34802\source\repos\TretaLekciq\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.exe
+c:\users\34802\source\repos\TretaLekciq\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.pdb
+c:\users\34802\source\repos\TretaLekciq\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\PBExam19March2017Evening\bin\Debug\PBExam19March2017Evening.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\PBExam19March2017Evening\bin\Debug\PBExam19March2017Evening.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\PBExam19March2017Evening\bin\Debug\PBExam19March2017Evening.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\PBExam19March2017Evening\obj\Debug\01.GrapeAndRakia.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\PBExam19March2017Evening\obj\Debug\01.GrapeAndRakia.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\PBExam19March2017Evening\obj\Debug\PBExam19March2017Evening.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\PBExam19March2017Evening\obj\Debug\PBExam19March2017Evening.pdb

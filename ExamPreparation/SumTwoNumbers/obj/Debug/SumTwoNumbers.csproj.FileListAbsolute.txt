@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\ExamPreparation\SumTwoNumbers\bin\Debug\SumTwoNumbers.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\SumTwoNumbers\bin\Debug\SumTwoNumbers.exe
+C:\Users\E6420\source\repos\ExamPreparation\SumTwoNumbers\bin\Debug\SumTwoNumbers.pdb
+C:\Users\E6420\source\repos\ExamPreparation\SumTwoNumbers\obj\Debug\SumTwoNumbers.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ExamPreparation\SumTwoNumbers\obj\Debug\SumTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\SumTwoNumbers\obj\Debug\SumTwoNumbers.exe
+C:\Users\E6420\source\repos\ExamPreparation\SumTwoNumbers\obj\Debug\SumTwoNumbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\06.TheSongOfTheWheels\bin\Debug\06.TheSongOfTheWheels.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\06.TheSongOfTheWheels\bin\Debug\06.TheSongOfTheWheels.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\06.TheSongOfTheWheels\bin\Debug\06.TheSongOfTheWheels.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\06.TheSongOfTheWheels\obj\Debug\06.TheSongOfTheWheels.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\06.TheSongOfTheWheels\obj\Debug\06.TheSongOfTheWheels.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\06.TheSongOfTheWheels\obj\Debug\06.TheSongOfTheWheels.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\06.TheSongOfTheWheels\obj\Debug\06.TheSongOfTheWheels.pdb

@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\03.SchoolCamp\bin\Debug\03.SchoolCamp.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\03.SchoolCamp\bin\Debug\03.SchoolCamp.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\03.SchoolCamp\bin\Debug\03.SchoolCamp.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\03.SchoolCamp\obj\Debug\03.SchoolCamp.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\03.SchoolCamp\obj\Debug\03.SchoolCamp.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\03.SchoolCamp\obj\Debug\03.SchoolCamp.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\03.SchoolCamp\obj\Debug\03.SchoolCamp.pdb

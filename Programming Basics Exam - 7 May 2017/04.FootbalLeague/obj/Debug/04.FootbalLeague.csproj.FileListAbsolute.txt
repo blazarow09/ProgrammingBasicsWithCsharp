@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\04.FootbalLeague\bin\Debug\04.FootbalLeague.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\04.FootbalLeague\bin\Debug\04.FootbalLeague.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\04.FootbalLeague\bin\Debug\04.FootbalLeague.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\04.FootbalLeague\obj\Debug\04.FootbalLeague.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\04.FootbalLeague\obj\Debug\04.FootbalLeague.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\04.FootbalLeague\obj\Debug\04.FootbalLeague.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\04.FootbalLeague\obj\Debug\04.FootbalLeague.pdb

@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\SimpleConditionalStatements\MetricConverter\bin\Debug\MetricConverter.exe.config
+C:\Users\34802\source\repos\SimpleConditionalStatements\MetricConverter\bin\Debug\MetricConverter.exe
+C:\Users\34802\source\repos\SimpleConditionalStatements\MetricConverter\bin\Debug\MetricConverter.pdb
+C:\Users\34802\source\repos\SimpleConditionalStatements\MetricConverter\obj\Debug\MetricConverter.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\SimpleConditionalStatements\MetricConverter\obj\Debug\MetricConverter.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\SimpleConditionalStatements\MetricConverter\obj\Debug\MetricConverter.exe
+C:\Users\34802\source\repos\SimpleConditionalStatements\MetricConverter\obj\Debug\MetricConverter.pdb

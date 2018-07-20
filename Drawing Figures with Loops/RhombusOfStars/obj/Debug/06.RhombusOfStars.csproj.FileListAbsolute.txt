@@ -1,0 +1,14 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\06.DrawingFigureswithLoops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\06.DrawingFigureswithLoops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\06.DrawingFigureswithLoops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\06.DrawingFigureswithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\06.DrawingFigureswithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\06.DrawingFigureswithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\06.DrawingFigureswithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.pdb

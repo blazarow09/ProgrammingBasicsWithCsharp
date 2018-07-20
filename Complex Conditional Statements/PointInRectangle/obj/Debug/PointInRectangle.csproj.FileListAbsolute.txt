@@ -1,0 +1,7 @@
+c:\users\34802\source\repos\TretaLekciq\PointInRectangle\bin\Debug\PointInRectangle.exe.config
+c:\users\34802\source\repos\TretaLekciq\PointInRectangle\bin\Debug\PointInRectangle.exe
+c:\users\34802\source\repos\TretaLekciq\PointInRectangle\bin\Debug\PointInRectangle.pdb
+c:\users\34802\source\repos\TretaLekciq\PointInRectangle\obj\Debug\PointInRectangle.csprojResolveAssemblyReference.cache
+c:\users\34802\source\repos\TretaLekciq\PointInRectangle\obj\Debug\PointInRectangle.csproj.CoreCompileInputs.cache
+c:\users\34802\source\repos\TretaLekciq\PointInRectangle\obj\Debug\PointInRectangle.exe
+c:\users\34802\source\repos\TretaLekciq\PointInRectangle\obj\Debug\PointInRectangle.pdb

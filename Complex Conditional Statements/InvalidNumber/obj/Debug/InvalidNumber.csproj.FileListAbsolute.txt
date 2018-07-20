@@ -1,0 +1,6 @@
+c:\users\34802\source\repos\TretaLekciq\InvalidNumber\bin\Debug\InvalidNumber.exe.config
+c:\users\34802\source\repos\TretaLekciq\InvalidNumber\bin\Debug\InvalidNumber.exe
+c:\users\34802\source\repos\TretaLekciq\InvalidNumber\bin\Debug\InvalidNumber.pdb
+c:\users\34802\source\repos\TretaLekciq\InvalidNumber\obj\Debug\InvalidNumber.csproj.CoreCompileInputs.cache
+c:\users\34802\source\repos\TretaLekciq\InvalidNumber\obj\Debug\InvalidNumber.exe
+c:\users\34802\source\repos\TretaLekciq\InvalidNumber\obj\Debug\InvalidNumber.pdb

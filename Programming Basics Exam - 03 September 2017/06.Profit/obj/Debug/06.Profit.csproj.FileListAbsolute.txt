@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\06.Profit\bin\Debug\06.Profit.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\06.Profit\bin\Debug\06.Profit.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\06.Profit\bin\Debug\06.Profit.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\06.Profit\obj\Debug\06.Profit.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\06.Profit\obj\Debug\06.Profit.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\06.Profit\obj\Debug\06.Profit.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\06.Profit\obj\Debug\06.Profit.pdb

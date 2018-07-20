@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\04.Workout\bin\Debug\04.Workout.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\04.Workout\bin\Debug\04.Workout.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\04.Workout\bin\Debug\04.Workout.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\04.Workout\obj\Debug\04.Workout.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\04.Workout\obj\Debug\04.Workout.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\04.Workout\obj\Debug\04.Workout.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\04.Workout\obj\Debug\04.Workout.pdb

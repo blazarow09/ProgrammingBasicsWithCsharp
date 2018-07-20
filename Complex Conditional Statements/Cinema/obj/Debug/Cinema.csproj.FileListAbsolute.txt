@@ -1,0 +1,6 @@
+c:\users\34802\source\repos\TretaLekciq\Cinema\bin\Debug\Cinema.exe.config
+c:\users\34802\source\repos\TretaLekciq\Cinema\bin\Debug\Cinema.exe
+c:\users\34802\source\repos\TretaLekciq\Cinema\bin\Debug\Cinema.pdb
+c:\users\34802\source\repos\TretaLekciq\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+c:\users\34802\source\repos\TretaLekciq\Cinema\obj\Debug\Cinema.exe
+c:\users\34802\source\repos\TretaLekciq\Cinema\obj\Debug\Cinema.pdb

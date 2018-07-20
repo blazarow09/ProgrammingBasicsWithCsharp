@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 8 November 2015\PBExam8NOV2015\01.ProspectInHospitality\bin\Debug\01.ProspectInHospitality.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 8 November 2015\PBExam8NOV2015\01.ProspectInHospitality\bin\Debug\01.ProspectInHospitality.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 8 November 2015\PBExam8NOV2015\01.ProspectInHospitality\bin\Debug\01.ProspectInHospitality.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 8 November 2015\PBExam8NOV2015\01.ProspectInHospitality\obj\Debug\01.ProspectInHospitality.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 8 November 2015\PBExam8NOV2015\01.ProspectInHospitality\obj\Debug\01.ProspectInHospitality.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 8 November 2015\PBExam8NOV2015\01.ProspectInHospitality\obj\Debug\01.ProspectInHospitality.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 8 November 2015\PBExam8NOV2015\01.ProspectInHospitality\obj\Debug\01.ProspectInHospitality.pdb

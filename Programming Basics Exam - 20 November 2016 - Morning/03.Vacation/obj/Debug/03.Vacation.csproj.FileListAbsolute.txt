@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\03.Vacation\bin\Debug\03.Vacation.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\03.Vacation\bin\Debug\03.Vacation.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\03.Vacation\bin\Debug\03.Vacation.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\03.Vacation\obj\Debug\03.Vacation.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\03.Vacation\obj\Debug\03.Vacation.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\03.Vacation\obj\Debug\03.Vacation.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\03.Vacation\obj\Debug\03.Vacation.pdb

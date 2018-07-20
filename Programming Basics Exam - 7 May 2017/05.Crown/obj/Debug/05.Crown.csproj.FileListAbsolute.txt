@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\05.Crown\bin\Debug\05.Crown.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\05.Crown\bin\Debug\05.Crown.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\05.Crown\bin\Debug\05.Crown.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\05.Crown\obj\Debug\05.Crown.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\05.Crown\obj\Debug\05.Crown.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\05.Crown\obj\Debug\05.Crown.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\05.Crown\obj\Debug\05.Crown.pdb

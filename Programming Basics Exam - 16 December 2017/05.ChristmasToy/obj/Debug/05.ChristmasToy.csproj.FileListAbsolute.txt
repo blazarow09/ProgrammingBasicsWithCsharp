@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\05.ChristmasToy\bin\Debug\05.ChristmasToy.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\05.ChristmasToy\bin\Debug\05.ChristmasToy.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\05.ChristmasToy\bin\Debug\05.ChristmasToy.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\05.ChristmasToy\obj\Debug\05.ChristmasToy.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\05.ChristmasToy\obj\Debug\05.ChristmasToy.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\05.ChristmasToy\obj\Debug\05.ChristmasToy.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\05.ChristmasToy\obj\Debug\05.ChristmasToy.pdb

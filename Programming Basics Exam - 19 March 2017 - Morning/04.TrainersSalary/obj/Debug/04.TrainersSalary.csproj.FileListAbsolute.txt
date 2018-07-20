@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\04.TrainersSalary\bin\Debug\04.TrainersSalary.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\04.TrainersSalary\bin\Debug\04.TrainersSalary.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\04.TrainersSalary\bin\Debug\04.TrainersSalary.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\04.TrainersSalary\obj\Debug\04.TrainersSalary.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\04.TrainersSalary\obj\Debug\04.TrainersSalary.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\04.TrainersSalary\obj\Debug\04.TrainersSalary.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\04.TrainersSalary\obj\Debug\04.TrainersSalary.pdb

@@ -1,0 +1,6 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\06.SumOfTwoNumbers\bin\Debug\06.SumOfTwoNumbers.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\06.SumOfTwoNumbers\bin\Debug\06.SumOfTwoNumbers.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\06.SumOfTwoNumbers\bin\Debug\06.SumOfTwoNumbers.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\06.SumOfTwoNumbers\obj\Debug\06.SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\06.SumOfTwoNumbers\obj\Debug\06.SumOfTwoNumbers.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\06.SumOfTwoNumbers\obj\Debug\06.SumOfTwoNumbers.pdb

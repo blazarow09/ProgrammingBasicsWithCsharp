@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\01.ChristmasTree\bin\Debug\01.ChristmasTree.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\01.ChristmasTree\bin\Debug\01.ChristmasTree.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\01.ChristmasTree\bin\Debug\01.ChristmasTree.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\01.ChristmasTree\obj\Debug\07.ChristmasTree.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\01.ChristmasTree\obj\Debug\01.ChristmasTree.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\01.ChristmasTree\obj\Debug\01.ChristmasTree.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\01.ChristmasTree\obj\Debug\07.ChristmasTree.csprojResolveAssemblyReference.cache

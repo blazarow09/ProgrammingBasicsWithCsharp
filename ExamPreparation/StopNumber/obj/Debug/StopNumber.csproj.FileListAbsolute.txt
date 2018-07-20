@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\ExamPreparation\StopNumber\bin\Debug\StopNumber.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\StopNumber\bin\Debug\StopNumber.exe
+C:\Users\E6420\source\repos\ExamPreparation\StopNumber\bin\Debug\StopNumber.pdb
+C:\Users\E6420\source\repos\ExamPreparation\StopNumber\obj\Debug\StopNumber.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\StopNumber\obj\Debug\StopNumber.exe
+C:\Users\E6420\source\repos\ExamPreparation\StopNumber\obj\Debug\StopNumber.pdb

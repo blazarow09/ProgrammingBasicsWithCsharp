@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\05.SimpleLoops\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.exe.config
+C:\Users\34802\source\repos\05.SimpleLoops\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.exe
+C:\Users\34802\source\repos\05.SimpleLoops\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.pdb
+C:\Users\34802\source\repos\05.SimpleLoops\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\05.SimpleLoops\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\05.SimpleLoops\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.exe
+C:\Users\34802\source\repos\05.SimpleLoops\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.pdb

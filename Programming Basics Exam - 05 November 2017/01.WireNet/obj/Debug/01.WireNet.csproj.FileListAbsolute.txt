@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\PBBasicsExam05November2017\bin\Debug\PBBasicsExam05November2017.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\PBBasicsExam05November2017\bin\Debug\PBBasicsExam05November2017.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\PBBasicsExam05November2017\bin\Debug\PBBasicsExam05November2017.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\PBBasicsExam05November2017\obj\Debug\01.WireNet.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\PBBasicsExam05November2017\obj\Debug\01.WireNet.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\PBBasicsExam05November2017\obj\Debug\PBBasicsExam05November2017.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\PBBasicsExam05November2017\obj\Debug\PBBasicsExam05November2017.pdb

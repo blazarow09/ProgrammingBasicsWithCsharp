@@ -1,0 +1,6 @@
+C:\Users\34802\source\repos\Sumator\06.RectangleArea\bin\Debug\06.RectangleArea.exe.config
+C:\Users\34802\source\repos\Sumator\06.RectangleArea\bin\Debug\06.RectangleArea.exe
+C:\Users\34802\source\repos\Sumator\06.RectangleArea\bin\Debug\06.RectangleArea.pdb
+C:\Users\34802\source\repos\Sumator\06.RectangleArea\obj\Debug\06.RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\Sumator\06.RectangleArea\obj\Debug\06.RectangleArea.exe
+C:\Users\34802\source\repos\Sumator\06.RectangleArea\obj\Debug\06.RectangleArea.pdb

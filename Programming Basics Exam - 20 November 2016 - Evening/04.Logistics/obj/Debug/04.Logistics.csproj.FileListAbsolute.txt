@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\04.Logistics\bin\Debug\04.Logistics.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\04.Logistics\bin\Debug\04.Logistics.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\04.Logistics\bin\Debug\04.Logistics.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\04.Logistics\obj\Debug\04.Logistics.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\04.Logistics\obj\Debug\04.Logistics.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\04.Logistics\obj\Debug\04.Logistics.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\04.Logistics\obj\Debug\04.Logistics.pdb

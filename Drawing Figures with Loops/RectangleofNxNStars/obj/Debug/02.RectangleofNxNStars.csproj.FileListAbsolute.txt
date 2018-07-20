@@ -1,0 +1,6 @@
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\02.RectangleofNxNStars\bin\Debug\02.RectangleofNxNStars.exe.config
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\02.RectangleofNxNStars\bin\Debug\02.RectangleofNxNStars.exe
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\02.RectangleofNxNStars\bin\Debug\02.RectangleofNxNStars.pdb
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\02.RectangleofNxNStars\obj\Debug\02.RectangleofNxNStars.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\02.RectangleofNxNStars\obj\Debug\02.RectangleofNxNStars.exe
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\02.RectangleofNxNStars\obj\Debug\02.RectangleofNxNStars.pdb

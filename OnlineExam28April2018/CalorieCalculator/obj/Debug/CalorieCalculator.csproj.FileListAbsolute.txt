@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\OnlineExam28April2018\CalorieCalculator\obj\Debug\CalorieCalculator.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\OnlineExam28April2018\CalorieCalculator\bin\Debug\CalorieCalculator.exe.config
+C:\Users\E6420\source\repos\OnlineExam28April2018\CalorieCalculator\bin\Debug\CalorieCalculator.exe
+C:\Users\E6420\source\repos\OnlineExam28April2018\CalorieCalculator\bin\Debug\CalorieCalculator.pdb
+C:\Users\E6420\source\repos\OnlineExam28April2018\CalorieCalculator\obj\Debug\CalorieCalculator.exe
+C:\Users\E6420\source\repos\OnlineExam28April2018\CalorieCalculator\obj\Debug\CalorieCalculator.pdb

@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\03.BikeRace\bin\Debug\03.BikeRace.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\03.BikeRace\bin\Debug\03.BikeRace.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\03.BikeRace\bin\Debug\03.BikeRace.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\03.BikeRace\obj\Debug\03.BikeRace.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\03.BikeRace\obj\Debug\03.BikeRace.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\03.BikeRace\obj\Debug\03.BikeRace.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\03.BikeRace\obj\Debug\03.BikeRace.pdb

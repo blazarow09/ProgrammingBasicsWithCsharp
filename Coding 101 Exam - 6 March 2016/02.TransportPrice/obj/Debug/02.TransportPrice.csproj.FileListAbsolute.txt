@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\02.TransportPrice\bin\Debug\02.TransportPrice.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\02.TransportPrice\bin\Debug\02.TransportPrice.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\02.TransportPrice\bin\Debug\02.TransportPrice.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\02.TransportPrice\obj\Debug\02.TransportPrice.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\02.TransportPrice\obj\Debug\02.TransportPrice.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\02.TransportPrice\obj\Debug\02.TransportPrice.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\02.TransportPrice\obj\Debug\02.TransportPrice.pdb

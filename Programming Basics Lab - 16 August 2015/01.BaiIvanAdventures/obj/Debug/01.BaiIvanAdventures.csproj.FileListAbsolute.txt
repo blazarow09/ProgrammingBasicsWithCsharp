@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Lab - 16 August 2015\PBExam16AUG2015\01.BaiIvanAdventures\bin\Debug\01.BaiIvanAdventures.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Lab - 16 August 2015\PBExam16AUG2015\01.BaiIvanAdventures\bin\Debug\01.BaiIvanAdventures.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Lab - 16 August 2015\PBExam16AUG2015\01.BaiIvanAdventures\bin\Debug\01.BaiIvanAdventures.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Lab - 16 August 2015\PBExam16AUG2015\01.BaiIvanAdventures\obj\Debug\01.BaiIvanAdventures.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Lab - 16 August 2015\PBExam16AUG2015\01.BaiIvanAdventures\obj\Debug\01.BaiIvanAdventures.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Lab - 16 August 2015\PBExam16AUG2015\01.BaiIvanAdventures\obj\Debug\01.BaiIvanAdventures.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Lab - 16 August 2015\PBExam16AUG2015\01.BaiIvanAdventures\obj\Debug\01.BaiIvanAdventures.pdb

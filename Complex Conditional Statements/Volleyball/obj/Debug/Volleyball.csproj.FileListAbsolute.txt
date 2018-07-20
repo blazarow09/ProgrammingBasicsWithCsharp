@@ -1,0 +1,7 @@
+c:\users\34802\source\repos\TretaLekciq\Volleyball\bin\Debug\Volleyball.exe.config
+c:\users\34802\source\repos\TretaLekciq\Volleyball\bin\Debug\Volleyball.exe
+c:\users\34802\source\repos\TretaLekciq\Volleyball\bin\Debug\Volleyball.pdb
+c:\users\34802\source\repos\TretaLekciq\Volleyball\obj\Debug\Volleyball.csprojResolveAssemblyReference.cache
+c:\users\34802\source\repos\TretaLekciq\Volleyball\obj\Debug\Volleyball.csproj.CoreCompileInputs.cache
+c:\users\34802\source\repos\TretaLekciq\Volleyball\obj\Debug\Volleyball.exe
+c:\users\34802\source\repos\TretaLekciq\Volleyball\obj\Debug\Volleyball.pdb

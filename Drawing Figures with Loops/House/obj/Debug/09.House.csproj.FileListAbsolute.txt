@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\09.House\bin\Debug\09.House.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\09.House\bin\Debug\09.House.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\09.House\bin\Debug\09.House.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\09.House\obj\Debug\09.House.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\09.House\obj\Debug\09.House.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\09.House\obj\Debug\09.House.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\09.House\obj\Debug\09.House.pdb

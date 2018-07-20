@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\ExamPreparation\HotelRoom\bin\Debug\HotelRoom.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\HotelRoom\bin\Debug\HotelRoom.exe
+C:\Users\E6420\source\repos\ExamPreparation\HotelRoom\bin\Debug\HotelRoom.pdb
+C:\Users\E6420\source\repos\ExamPreparation\HotelRoom\obj\Debug\HotelRoom.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ExamPreparation\HotelRoom\obj\Debug\HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\HotelRoom\obj\Debug\HotelRoom.exe
+C:\Users\E6420\source\repos\ExamPreparation\HotelRoom\obj\Debug\HotelRoom.pdb

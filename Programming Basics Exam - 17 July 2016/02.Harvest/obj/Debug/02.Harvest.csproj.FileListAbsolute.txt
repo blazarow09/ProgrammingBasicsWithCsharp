@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\02.Harvest\bin\Debug\02.Harvest.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\02.Harvest\bin\Debug\02.Harvest.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\02.Harvest\bin\Debug\02.Harvest.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\02.Harvest\obj\Debug\02.Harvest.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\02.Harvest\obj\Debug\02.Harvest.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\02.Harvest\obj\Debug\02.Harvest.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\02.Harvest\obj\Debug\02.Harvest.pdb

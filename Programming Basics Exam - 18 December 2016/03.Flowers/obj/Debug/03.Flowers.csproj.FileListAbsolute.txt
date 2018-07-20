@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\03.Flowers\bin\Debug\03.Flowers.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\03.Flowers\bin\Debug\03.Flowers.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\03.Flowers\bin\Debug\03.Flowers.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\03.Flowers\obj\Debug\03.Flowers.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\03.Flowers\obj\Debug\03.Flowers.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\03.Flowers\obj\Debug\03.Flowers.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\03.Flowers\obj\Debug\03.Flowers.pdb

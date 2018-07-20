@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\04.Money\bin\Debug\04.Money.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\04.Money\bin\Debug\04.Money.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\04.Money\bin\Debug\04.Money.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\04.Money\obj\Debug\04.Money.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\04.Money\obj\Debug\04.Money.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\04.Money\obj\Debug\04.Money.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\04.Money\obj\Debug\04.Money.pdb

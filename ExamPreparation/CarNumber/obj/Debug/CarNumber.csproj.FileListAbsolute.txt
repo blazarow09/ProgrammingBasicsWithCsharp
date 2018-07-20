@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\ExamPreparation\CarNumber\obj\Debug\CarNumber.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ExamPreparation\CarNumber\obj\Debug\CarNumber.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\CarNumber\bin\Debug\CarNumber.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\CarNumber\bin\Debug\CarNumber.exe
+C:\Users\E6420\source\repos\ExamPreparation\CarNumber\bin\Debug\CarNumber.pdb
+C:\Users\E6420\source\repos\ExamPreparation\CarNumber\obj\Debug\CarNumber.exe
+C:\Users\E6420\source\repos\ExamPreparation\CarNumber\obj\Debug\CarNumber.pdb

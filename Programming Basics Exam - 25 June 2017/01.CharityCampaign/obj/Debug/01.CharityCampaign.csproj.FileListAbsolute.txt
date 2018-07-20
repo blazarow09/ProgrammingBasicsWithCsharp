@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\PBExam25June2017\bin\Debug\PBExam25June2017.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\PBExam25June2017\bin\Debug\PBExam25June2017.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\PBExam25June2017\bin\Debug\PBExam25June2017.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\PBExam25June2017\obj\Debug\01.CharityCampaign.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\PBExam25June2017\obj\Debug\01.CharityCampaign.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\PBExam25June2017\obj\Debug\PBExam25June2017.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\PBExam25June2017\obj\Debug\PBExam25June2017.pdb

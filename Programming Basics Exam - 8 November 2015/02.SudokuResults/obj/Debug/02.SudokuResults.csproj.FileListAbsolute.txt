@@ -1,0 +1,6 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 8 November 2015\PBExam8NOV2015\02.SudokuResults\bin\Debug\02.SudokuResults.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 8 November 2015\PBExam8NOV2015\02.SudokuResults\bin\Debug\02.SudokuResults.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 8 November 2015\PBExam8NOV2015\02.SudokuResults\bin\Debug\02.SudokuResults.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 8 November 2015\PBExam8NOV2015\02.SudokuResults\obj\Debug\02.SudokuResults.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 8 November 2015\PBExam8NOV2015\02.SudokuResults\obj\Debug\02.SudokuResults.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 8 November 2015\PBExam8NOV2015\02.SudokuResults\obj\Debug\02.SudokuResults.pdb

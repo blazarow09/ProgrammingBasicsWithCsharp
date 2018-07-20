@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\PBExam19March2017Morning\obj\Debug\PBExam19March2017Morning.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\PBExam19March2017Morning\obj\Debug\PBExam19March2017Morning.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\PBExam19March2017Morning\bin\Debug\PBExam19March2017Morning.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\PBExam19March2017Morning\bin\Debug\PBExam19March2017Morning.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\PBExam19March2017Morning\bin\Debug\PBExam19March2017Morning.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\PBExam19March2017Morning\obj\Debug\PBExam19March2017Morning.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\PBExam19March2017Morning\obj\Debug\PBExam19March2017Morning.pdb

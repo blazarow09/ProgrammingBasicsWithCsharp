@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 January 2016\PBExam17JAN2016\02.BeerStock\bin\Debug\02.BeerStock.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 January 2016\PBExam17JAN2016\02.BeerStock\bin\Debug\02.BeerStock.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 January 2016\PBExam17JAN2016\02.BeerStock\bin\Debug\02.BeerStock.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 January 2016\PBExam17JAN2016\02.BeerStock\obj\Debug\02.BeerStock.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 January 2016\PBExam17JAN2016\02.BeerStock\obj\Debug\02.BeerStock.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 January 2016\PBExam17JAN2016\02.BeerStock\obj\Debug\02.BeerStock.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 January 2016\PBExam17JAN2016\02.BeerStock\obj\Debug\02.BeerStock.pdb

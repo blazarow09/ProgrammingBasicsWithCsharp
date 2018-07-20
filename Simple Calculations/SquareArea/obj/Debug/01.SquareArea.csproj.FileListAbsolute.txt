@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\Sumator\01.SquareArea\bin\Debug\01.SquareArea.exe.config
+C:\Users\34802\source\repos\Sumator\01.SquareArea\bin\Debug\01.SquareArea.exe
+C:\Users\34802\source\repos\Sumator\01.SquareArea\bin\Debug\01.SquareArea.pdb
+C:\Users\34802\source\repos\Sumator\01.SquareArea\obj\Debug\01.SquareArea.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\Sumator\01.SquareArea\obj\Debug\01.SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\Sumator\01.SquareArea\obj\Debug\01.SquareArea.exe
+C:\Users\34802\source\repos\Sumator\01.SquareArea\obj\Debug\01.SquareArea.pdb

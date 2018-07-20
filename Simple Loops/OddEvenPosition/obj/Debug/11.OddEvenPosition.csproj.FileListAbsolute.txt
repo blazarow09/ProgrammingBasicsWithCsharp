@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\05.SimpleLoops\11.OddEvenPosition\bin\Debug\11.OddEvenPosition.exe.config
+C:\Users\34802\source\repos\05.SimpleLoops\11.OddEvenPosition\bin\Debug\11.OddEvenPosition.exe
+C:\Users\34802\source\repos\05.SimpleLoops\11.OddEvenPosition\bin\Debug\11.OddEvenPosition.pdb
+C:\Users\34802\source\repos\05.SimpleLoops\11.OddEvenPosition\obj\Debug\11.OddEvenPosition.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\05.SimpleLoops\11.OddEvenPosition\obj\Debug\11.OddEvenPosition.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\05.SimpleLoops\11.OddEvenPosition\obj\Debug\11.OddEvenPosition.exe
+C:\Users\34802\source\repos\05.SimpleLoops\11.OddEvenPosition\obj\Debug\11.OddEvenPosition.pdb

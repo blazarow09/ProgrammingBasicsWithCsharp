@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\ExamPreparation\MaxCombinations\bin\Debug\MaxCombinations.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\MaxCombinations\bin\Debug\MaxCombinations.exe
+C:\Users\E6420\source\repos\ExamPreparation\MaxCombinations\bin\Debug\MaxCombinations.pdb
+C:\Users\E6420\source\repos\ExamPreparation\MaxCombinations\obj\Debug\MaxCombinations.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\MaxCombinations\obj\Debug\MaxCombinations.exe
+C:\Users\E6420\source\repos\ExamPreparation\MaxCombinations\obj\Debug\MaxCombinations.pdb

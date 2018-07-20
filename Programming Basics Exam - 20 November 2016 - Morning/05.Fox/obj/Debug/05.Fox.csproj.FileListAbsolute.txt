@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\05.Fox\bin\Debug\05.Fox.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\05.Fox\bin\Debug\05.Fox.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\05.Fox\bin\Debug\05.Fox.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\05.Fox\obj\Debug\05.Fox.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\05.Fox\obj\Debug\05.Fox.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\05.Fox\obj\Debug\05.Fox.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\05.Fox\obj\Debug\05.Fox.pdb

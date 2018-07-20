@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\05.Sheriff\bin\Debug\05.Sheriff.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\05.Sheriff\bin\Debug\05.Sheriff.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\05.Sheriff\bin\Debug\05.Sheriff.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\05.Sheriff\obj\Debug\05.Sheriff.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\05.Sheriff\obj\Debug\05.Sheriff.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\05.Sheriff\obj\Debug\05.Sheriff.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\05.Sheriff\obj\Debug\05.Sheriff.pdb

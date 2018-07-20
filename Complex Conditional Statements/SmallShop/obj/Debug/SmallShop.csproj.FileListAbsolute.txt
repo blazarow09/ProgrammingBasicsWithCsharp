@@ -1,0 +1,7 @@
+c:\users\34802\source\repos\TretaLekciq\SmallShop\bin\Debug\SmallShop.exe.config
+c:\users\34802\source\repos\TretaLekciq\SmallShop\bin\Debug\SmallShop.exe
+c:\users\34802\source\repos\TretaLekciq\SmallShop\bin\Debug\SmallShop.pdb
+c:\users\34802\source\repos\TretaLekciq\SmallShop\obj\Debug\SmallShop.csprojResolveAssemblyReference.cache
+c:\users\34802\source\repos\TretaLekciq\SmallShop\obj\Debug\SmallShop.csproj.CoreCompileInputs.cache
+c:\users\34802\source\repos\TretaLekciq\SmallShop\obj\Debug\SmallShop.exe
+c:\users\34802\source\repos\TretaLekciq\SmallShop\obj\Debug\SmallShop.pdb

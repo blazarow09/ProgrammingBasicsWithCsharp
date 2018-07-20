@@ -1,0 +1,6 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\06.Battles\bin\Debug\06.Battles.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\06.Battles\bin\Debug\06.Battles.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\06.Battles\bin\Debug\06.Battles.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\06.Battles\obj\Debug\06.Battles.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\06.Battles\obj\Debug\06.Battles.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\06.Battles\obj\Debug\06.Battles.pdb

@@ -1,0 +1,7 @@
+c:\users\34802\source\repos\PBExam17December2017\PBExam17December2017\bin\Debug\PBExam17December2017.exe.config
+c:\users\34802\source\repos\PBExam17December2017\PBExam17December2017\bin\Debug\PBExam17December2017.exe
+c:\users\34802\source\repos\PBExam17December2017\PBExam17December2017\bin\Debug\PBExam17December2017.pdb
+c:\users\34802\source\repos\PBExam17December2017\PBExam17December2017\obj\Debug\IvanovisFamily.csprojResolveAssemblyReference.cache
+c:\users\34802\source\repos\PBExam17December2017\PBExam17December2017\obj\Debug\IvanovisFamily.csproj.CoreCompileInputs.cache
+c:\users\34802\source\repos\PBExam17December2017\PBExam17December2017\obj\Debug\PBExam17December2017.exe
+c:\users\34802\source\repos\PBExam17December2017\PBExam17December2017\obj\Debug\PBExam17December2017.pdb

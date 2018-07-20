@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\ExamPreparation\SpecialCombinations\bin\Debug\SpecialCombinations.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\SpecialCombinations\bin\Debug\SpecialCombinations.exe
+C:\Users\E6420\source\repos\ExamPreparation\SpecialCombinations\bin\Debug\SpecialCombinations.pdb
+C:\Users\E6420\source\repos\ExamPreparation\SpecialCombinations\obj\Debug\SpecialCombinations.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ExamPreparation\SpecialCombinations\obj\Debug\SpecialCombinations.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\SpecialCombinations\obj\Debug\SpecialCombinations.exe
+C:\Users\E6420\source\repos\ExamPreparation\SpecialCombinations\obj\Debug\SpecialCombinations.pdb

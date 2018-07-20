@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\SimpleConditionalStatements\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\34802\source\repos\SimpleConditionalStatements\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\34802\source\repos\SimpleConditionalStatements\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\34802\source\repos\SimpleConditionalStatements\BonusScore\obj\Debug\BonusScore.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\SimpleConditionalStatements\BonusScore\obj\Debug\BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\SimpleConditionalStatements\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\34802\source\repos\SimpleConditionalStatements\BonusScore\obj\Debug\BonusScore.pdb

@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\02.Airplane\bin\Debug\02.Airplane.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\02.Airplane\bin\Debug\02.Airplane.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\02.Airplane\bin\Debug\02.Airplane.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\02.Airplane\obj\Debug\02.Airplane.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\02.Airplane\obj\Debug\02.Airplane.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\02.Airplane\obj\Debug\02.Airplane.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\02.Airplane\obj\Debug\02.Airplane.pdb

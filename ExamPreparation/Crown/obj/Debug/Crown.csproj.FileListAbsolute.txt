@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\ExamPreparation\Crown\bin\Debug\Crown.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\Crown\bin\Debug\Crown.exe
+C:\Users\E6420\source\repos\ExamPreparation\Crown\bin\Debug\Crown.pdb
+C:\Users\E6420\source\repos\ExamPreparation\Crown\obj\Debug\Crown.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\Crown\obj\Debug\Crown.exe
+C:\Users\E6420\source\repos\ExamPreparation\Crown\obj\Debug\Crown.pdb

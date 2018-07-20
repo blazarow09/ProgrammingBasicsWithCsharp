@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\Solution1\Fox\bin\Debug\Fox.exe.config
+C:\Users\E6420\source\repos\Solution1\Fox\bin\Debug\Fox.exe
+C:\Users\E6420\source\repos\Solution1\Fox\bin\Debug\Fox.pdb
+C:\Users\E6420\source\repos\Solution1\Fox\obj\Debug\Fox.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\Solution1\Fox\obj\Debug\Fox.exe
+C:\Users\E6420\source\repos\Solution1\Fox\obj\Debug\Fox.pdb

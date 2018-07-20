@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\05.Axe\bin\Debug\05.Axe.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\05.Axe\bin\Debug\05.Axe.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\05.Axe\bin\Debug\05.Axe.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\05.Axe\obj\Debug\05.Axe.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\05.Axe\obj\Debug\05.Axe.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\05.Axe\obj\Debug\05.Axe.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\05.Axe\obj\Debug\05.Axe.pdb

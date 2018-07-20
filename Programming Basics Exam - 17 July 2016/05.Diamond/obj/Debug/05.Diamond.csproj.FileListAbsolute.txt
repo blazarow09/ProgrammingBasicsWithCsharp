@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\05.Diamond\bin\Debug\05.Diamond.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\05.Diamond\bin\Debug\05.Diamond.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\05.Diamond\bin\Debug\05.Diamond.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\05.Diamond\obj\Debug\05.Diamond.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\05.Diamond\obj\Debug\05.Diamond.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\05.Diamond\obj\Debug\05.Diamond.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\05.Diamond\obj\Debug\05.Diamond.pdb

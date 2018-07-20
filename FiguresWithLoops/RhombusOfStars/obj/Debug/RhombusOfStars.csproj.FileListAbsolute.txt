@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\Solution1\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
+C:\Users\E6420\source\repos\Solution1\RhombusOfStars\bin\Debug\RhombusOfStars.exe
+C:\Users\E6420\source\repos\Solution1\RhombusOfStars\bin\Debug\RhombusOfStars.pdb
+C:\Users\E6420\source\repos\Solution1\RhombusOfStars\obj\Debug\RhombusOfStars.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\Solution1\RhombusOfStars\obj\Debug\RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\Solution1\RhombusOfStars\obj\Debug\RhombusOfStars.exe
+C:\Users\E6420\source\repos\Solution1\RhombusOfStars\obj\Debug\RhombusOfStars.pdb

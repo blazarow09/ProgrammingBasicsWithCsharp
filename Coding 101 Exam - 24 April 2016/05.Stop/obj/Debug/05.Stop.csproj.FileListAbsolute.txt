@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\05.Stop\bin\Debug\05.Stop.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\05.Stop\bin\Debug\05.Stop.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\05.Stop\bin\Debug\05.Stop.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\05.Stop\obj\Debug\05.Stop.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\05.Stop\obj\Debug\05.Stop.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\05.Stop\obj\Debug\05.Stop.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\05.Stop\obj\Debug\05.Stop.pdb

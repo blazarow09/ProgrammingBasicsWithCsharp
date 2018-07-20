@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\02.PoolPipes\bin\Debug\02.PoolPipes.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\02.PoolPipes\bin\Debug\02.PoolPipes.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\02.PoolPipes\bin\Debug\02.PoolPipes.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\02.PoolPipes\obj\Debug\02.PoolPipes.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\02.PoolPipes\obj\Debug\02.PoolPipes.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\02.PoolPipes\obj\Debug\02.PoolPipes.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\02.PoolPipes\obj\Debug\02.PoolPipes.pdb

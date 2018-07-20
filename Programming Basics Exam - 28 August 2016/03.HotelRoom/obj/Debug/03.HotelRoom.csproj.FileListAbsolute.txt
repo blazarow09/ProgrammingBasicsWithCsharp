@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\03.HotelRoom\bin\Debug\03.HotelRoom.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\03.HotelRoom\bin\Debug\03.HotelRoom.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\03.HotelRoom\bin\Debug\03.HotelRoom.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\03.HotelRoom\obj\Debug\03.HotelRoom.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\03.HotelRoom\obj\Debug\03.HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\03.HotelRoom\obj\Debug\03.HotelRoom.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\03.HotelRoom\obj\Debug\03.HotelRoom.pdb

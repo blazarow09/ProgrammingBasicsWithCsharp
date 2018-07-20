@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\MoonDistance\bin\Debug\MoonDistance.exe.config
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\MoonDistance\bin\Debug\MoonDistance.exe
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\MoonDistance\bin\Debug\MoonDistance.pdb
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\MoonDistance\obj\Debug\MoonDistance.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\MoonDistance\obj\Debug\MoonDistance.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\MoonDistance\obj\Debug\MoonDistance.exe
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\MoonDistance\obj\Debug\MoonDistance.pdb

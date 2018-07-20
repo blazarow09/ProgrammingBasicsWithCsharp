@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\Solution1\ChristmasHat\bin\Debug\ChristmasHat.exe.config
+C:\Users\E6420\source\repos\Solution1\ChristmasHat\bin\Debug\ChristmasHat.exe
+C:\Users\E6420\source\repos\Solution1\ChristmasHat\bin\Debug\ChristmasHat.pdb
+C:\Users\E6420\source\repos\Solution1\ChristmasHat\obj\Debug\ChristmasHat.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\Solution1\ChristmasHat\obj\Debug\ChristmasHat.exe
+C:\Users\E6420\source\repos\Solution1\ChristmasHat\obj\Debug\ChristmasHat.pdb

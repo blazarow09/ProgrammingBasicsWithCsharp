@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\03.TruckDriver\bin\Debug\03.TruckDriver.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\03.TruckDriver\bin\Debug\03.TruckDriver.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\03.TruckDriver\bin\Debug\03.TruckDriver.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\03.TruckDriver\obj\Debug\03.TruckDriver.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\03.TruckDriver\obj\Debug\03.TruckDriver.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\03.TruckDriver\obj\Debug\03.TruckDriver.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\03.TruckDriver\obj\Debug\03.TruckDriver.pdb

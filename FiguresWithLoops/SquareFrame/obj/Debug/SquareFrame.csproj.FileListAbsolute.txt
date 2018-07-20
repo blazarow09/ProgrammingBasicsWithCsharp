@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\Solution1\SquareFrame\bin\Debug\SquareFrame.exe.config
+C:\Users\E6420\source\repos\Solution1\SquareFrame\bin\Debug\SquareFrame.exe
+C:\Users\E6420\source\repos\Solution1\SquareFrame\bin\Debug\SquareFrame.pdb
+C:\Users\E6420\source\repos\Solution1\SquareFrame\obj\Debug\SquareFrame.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\Solution1\SquareFrame\obj\Debug\SquareFrame.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\Solution1\SquareFrame\obj\Debug\SquareFrame.exe
+C:\Users\E6420\source\repos\Solution1\SquareFrame\obj\Debug\SquareFrame.pdb

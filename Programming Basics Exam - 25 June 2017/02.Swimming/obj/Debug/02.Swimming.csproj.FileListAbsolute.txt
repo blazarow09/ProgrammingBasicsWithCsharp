@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\02.Swimming\bin\Debug\02.Swimming.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\02.Swimming\bin\Debug\02.Swimming.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\02.Swimming\bin\Debug\02.Swimming.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\02.Swimming\obj\Debug\02.Swimming.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\02.Swimming\obj\Debug\02.Swimming.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\02.Swimming\obj\Debug\02.Swimming.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\02.Swimming\obj\Debug\02.Swimming.pdb

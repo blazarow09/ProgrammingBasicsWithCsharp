@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\Sumator\04.ConcatenateData\bin\Debug\04.ConcatenateData.exe.config
+C:\Users\34802\source\repos\Sumator\04.ConcatenateData\bin\Debug\04.ConcatenateData.exe
+C:\Users\34802\source\repos\Sumator\04.ConcatenateData\bin\Debug\04.ConcatenateData.pdb
+C:\Users\34802\source\repos\Sumator\04.ConcatenateData\obj\Debug\04.ConcatenateData.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\Sumator\04.ConcatenateData\obj\Debug\04.ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\Sumator\04.ConcatenateData\obj\Debug\04.ConcatenateData.exe
+C:\Users\34802\source\repos\Sumator\04.ConcatenateData\obj\Debug\04.ConcatenateData.pdb

@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\05.SnowFlake\bin\Debug\05.SnowFlake.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\05.SnowFlake\bin\Debug\05.SnowFlake.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\05.SnowFlake\bin\Debug\05.SnowFlake.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\05.SnowFlake\obj\Debug\05.SnowFlake.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\05.SnowFlake\obj\Debug\05.SnowFlake.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\05.SnowFlake\obj\Debug\05.SnowFlake.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\05.SnowFlake\obj\Debug\05.SnowFlake.pdb

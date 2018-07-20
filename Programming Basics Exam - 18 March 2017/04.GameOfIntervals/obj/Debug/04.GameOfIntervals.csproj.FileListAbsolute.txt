@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\04.GameOfIntervals\bin\Debug\04.GameOfIntervals.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\04.GameOfIntervals\bin\Debug\04.GameOfIntervals.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\04.GameOfIntervals\bin\Debug\04.GameOfIntervals.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\04.GameOfIntervals\obj\Debug\04.GameOfIntervals.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\04.GameOfIntervals\obj\Debug\04.GameOfIntervals.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\04.GameOfIntervals\obj\Debug\04.GameOfIntervals.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\04.GameOfIntervals\obj\Debug\04.GameOfIntervals.pdb

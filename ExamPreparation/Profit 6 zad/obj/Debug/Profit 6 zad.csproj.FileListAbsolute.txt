@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\ExamPreparation\Profit 6 zad\bin\Debug\Profit 6 zad.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\Profit 6 zad\bin\Debug\Profit 6 zad.exe
+C:\Users\E6420\source\repos\ExamPreparation\Profit 6 zad\bin\Debug\Profit 6 zad.pdb
+C:\Users\E6420\source\repos\ExamPreparation\Profit 6 zad\obj\Debug\Profit 6 zad.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ExamPreparation\Profit 6 zad\obj\Debug\Profit 6 zad.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\Profit 6 zad\obj\Debug\Profit 6 zad.exe
+C:\Users\E6420\source\repos\ExamPreparation\Profit 6 zad\obj\Debug\Profit 6 zad.pdb

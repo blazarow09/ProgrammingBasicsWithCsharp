@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\PCStore\bin\Debug\netcoreapp2.0\PCStore.deps.json
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\PCStore\bin\Debug\netcoreapp2.0\PCStore.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\PCStore\bin\Debug\netcoreapp2.0\PCStore.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\PCStore\bin\Debug\netcoreapp2.0\PCStore.dll
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\PCStore\bin\Debug\netcoreapp2.0\PCStore.pdb
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\PCStore\obj\Debug\netcoreapp2.0\PCStore.csprojAssemblyReference.cache
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\PCStore\obj\Debug\netcoreapp2.0\PCStore.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\PCStore\obj\Debug\netcoreapp2.0\PCStore.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\PCStore\obj\Debug\netcoreapp2.0\PCStore.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\PCStore\obj\Debug\netcoreapp2.0\PCStore.dll
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\PCStore\obj\Debug\netcoreapp2.0\PCStore.pdb

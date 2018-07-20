@@ -1,0 +1,14 @@
+c:\users\34802\source\repos\TretaLekciq\PointInTheFigure\bin\Debug\PointInTheFigure.exe.config
+c:\users\34802\source\repos\TretaLekciq\PointInTheFigure\bin\Debug\PointInTheFigure.exe
+c:\users\34802\source\repos\TretaLekciq\PointInTheFigure\bin\Debug\PointInTheFigure.pdb
+c:\users\34802\source\repos\TretaLekciq\PointInTheFigure\obj\Debug\PointInTheFigure.csprojResolveAssemblyReference.cache
+c:\users\34802\source\repos\TretaLekciq\PointInTheFigure\obj\Debug\PointInTheFigure.csproj.CoreCompileInputs.cache
+c:\users\34802\source\repos\TretaLekciq\PointInTheFigure\obj\Debug\PointInTheFigure.exe
+c:\users\34802\source\repos\TretaLekciq\PointInTheFigure\obj\Debug\PointInTheFigure.pdb
+C:\Users\34802\Desktop\C#\chetvurtaLekciq\PointInTheFigure\bin\Debug\PointInTheFigure.exe.config
+C:\Users\34802\Desktop\C#\chetvurtaLekciq\PointInTheFigure\bin\Debug\PointInTheFigure.exe
+C:\Users\34802\Desktop\C#\chetvurtaLekciq\PointInTheFigure\bin\Debug\PointInTheFigure.pdb
+C:\Users\34802\Desktop\C#\chetvurtaLekciq\PointInTheFigure\obj\Debug\PointInTheFigure.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\C#\chetvurtaLekciq\PointInTheFigure\obj\Debug\PointInTheFigure.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\C#\chetvurtaLekciq\PointInTheFigure\obj\Debug\PointInTheFigure.exe
+C:\Users\34802\Desktop\C#\chetvurtaLekciq\PointInTheFigure\obj\Debug\PointInTheFigure.pdb

@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\06.StopNumber\bin\Debug\06.StopNumber.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\06.StopNumber\bin\Debug\06.StopNumber.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\06.StopNumber\bin\Debug\06.StopNumber.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\06.StopNumber\obj\Debug\06.StopNumber.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\06.StopNumber\obj\Debug\06.StopNumber.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\06.StopNumber\obj\Debug\06.StopNumber.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\06.StopNumber\obj\Debug\06.StopNumber.pdb

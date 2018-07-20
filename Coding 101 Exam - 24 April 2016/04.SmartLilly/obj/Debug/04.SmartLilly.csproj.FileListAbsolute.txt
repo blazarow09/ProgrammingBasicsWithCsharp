@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\04.SmartLilly\bin\Debug\04.SmartLilly.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\04.SmartLilly\bin\Debug\04.SmartLilly.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\04.SmartLilly\bin\Debug\04.SmartLilly.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\04.SmartLilly\obj\Debug\04.SmartLilly.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\04.SmartLilly\obj\Debug\04.SmartLilly.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\04.SmartLilly\obj\Debug\04.SmartLilly.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\04.SmartLilly\obj\Debug\04.SmartLilly.csprojResolveAssemblyReference.cache

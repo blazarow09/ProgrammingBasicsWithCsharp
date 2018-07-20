@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\06.Coins\bin\Debug\06.Coins.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\06.Coins\bin\Debug\06.Coins.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\06.Coins\bin\Debug\06.Coins.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\06.Coins\obj\Debug\06.Coins.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\06.Coins\obj\Debug\06.Coins.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\06.Coins\obj\Debug\06.Coins.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\06.Coins\obj\Debug\06.Coins.pdb

@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\03.MobileOperator\bin\Debug\03.MobileOperator.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\03.MobileOperator\bin\Debug\03.MobileOperator.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\03.MobileOperator\bin\Debug\03.MobileOperator.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\03.MobileOperator\obj\Debug\03.MobileOperator.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\03.MobileOperator\obj\Debug\03.MobileOperator.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\03.MobileOperator\obj\Debug\03.MobileOperator.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\03.MobileOperator\obj\Debug\03.MobileOperator.pdb

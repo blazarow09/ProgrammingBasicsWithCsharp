@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\Solution1\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe.config
+C:\Users\E6420\source\repos\Solution1\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe
+C:\Users\E6420\source\repos\Solution1\TriangleOfDollars\bin\Debug\TriangleOfDollars.pdb
+C:\Users\E6420\source\repos\Solution1\TriangleOfDollars\obj\Debug\TriangleOfDollars.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\Solution1\TriangleOfDollars\obj\Debug\TriangleOfDollars.exe
+C:\Users\E6420\source\repos\Solution1\TriangleOfDollars\obj\Debug\TriangleOfDollars.pdb

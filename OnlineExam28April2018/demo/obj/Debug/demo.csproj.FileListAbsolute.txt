@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\OnlineExam28April2018\demo\bin\Debug\demo.exe.config
+C:\Users\E6420\source\repos\OnlineExam28April2018\demo\bin\Debug\demo.exe
+C:\Users\E6420\source\repos\OnlineExam28April2018\demo\bin\Debug\demo.pdb
+C:\Users\E6420\source\repos\OnlineExam28April2018\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\OnlineExam28April2018\demo\obj\Debug\demo.exe
+C:\Users\E6420\source\repos\OnlineExam28April2018\demo\obj\Debug\demo.pdb

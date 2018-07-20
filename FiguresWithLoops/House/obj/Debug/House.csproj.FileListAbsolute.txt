@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\Solution1\House\bin\Debug\House.exe.config
+C:\Users\E6420\source\repos\Solution1\House\bin\Debug\House.exe
+C:\Users\E6420\source\repos\Solution1\House\bin\Debug\House.pdb
+C:\Users\E6420\source\repos\Solution1\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\Solution1\House\obj\Debug\House.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\Solution1\House\obj\Debug\House.exe
+C:\Users\E6420\source\repos\Solution1\House\obj\Debug\House.pdb

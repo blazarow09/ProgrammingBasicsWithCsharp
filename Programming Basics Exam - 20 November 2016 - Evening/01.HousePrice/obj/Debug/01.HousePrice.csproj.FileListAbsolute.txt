@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\PBExam20November2016Evening\bin\Debug\PBExam20November2016Evening.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\PBExam20November2016Evening\bin\Debug\PBExam20November2016Evening.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\PBExam20November2016Evening\bin\Debug\PBExam20November2016Evening.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\PBExam20November2016Evening\obj\Debug\01.HousePrice.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\PBExam20November2016Evening\obj\Debug\01.HousePrice.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\PBExam20November2016Evening\obj\Debug\PBExam20November2016Evening.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\PBExam20November2016Evening\obj\Debug\PBExam20November2016Evening.pdb

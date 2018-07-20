@@ -1,0 +1,6 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\06.MagicNumber\bin\Debug\06.MagicNumber.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\06.MagicNumber\bin\Debug\06.MagicNumber.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\06.MagicNumber\bin\Debug\06.MagicNumber.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\06.MagicNumber\obj\Debug\06.MagicNumber.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\06.MagicNumber\obj\Debug\06.MagicNumber.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\06.MagicNumber\obj\Debug\06.MagicNumber.pdb

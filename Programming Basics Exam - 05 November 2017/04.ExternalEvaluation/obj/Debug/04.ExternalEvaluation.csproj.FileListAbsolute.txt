@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\04.ExternalEvaluation\bin\Debug\04.ExternalEvaluation.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\04.ExternalEvaluation\bin\Debug\04.ExternalEvaluation.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\04.ExternalEvaluation\bin\Debug\04.ExternalEvaluation.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\04.ExternalEvaluation\obj\Debug\04.ExternalEvaluation.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\04.ExternalEvaluation\obj\Debug\04.ExternalEvaluation.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\04.ExternalEvaluation\obj\Debug\04.ExternalEvaluation.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\04.ExternalEvaluation\obj\Debug\04.ExternalEvaluation.pdb

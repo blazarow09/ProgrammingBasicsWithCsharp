@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\Sumator\12.CurrencyConverter\bin\Debug\12.CurrencyConverter.exe.config
+C:\Users\34802\source\repos\Sumator\12.CurrencyConverter\bin\Debug\12.CurrencyConverter.exe
+C:\Users\34802\source\repos\Sumator\12.CurrencyConverter\bin\Debug\12.CurrencyConverter.pdb
+C:\Users\34802\source\repos\Sumator\12.CurrencyConverter\obj\Debug\12.CurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\Sumator\12.CurrencyConverter\obj\Debug\12.CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\Sumator\12.CurrencyConverter\obj\Debug\12.CurrencyConverter.exe
+C:\Users\34802\source\repos\Sumator\12.CurrencyConverter\obj\Debug\12.CurrencyConverter.pdb

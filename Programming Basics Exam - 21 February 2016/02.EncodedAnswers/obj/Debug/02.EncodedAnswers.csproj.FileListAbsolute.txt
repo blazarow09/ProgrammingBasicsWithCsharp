@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 21 February 2016\PBExam21FEB\02.EncodedAnswers\bin\Debug\02.EncodedAnswers.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 21 February 2016\PBExam21FEB\02.EncodedAnswers\bin\Debug\02.EncodedAnswers.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 21 February 2016\PBExam21FEB\02.EncodedAnswers\bin\Debug\02.EncodedAnswers.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 21 February 2016\PBExam21FEB\02.EncodedAnswers\obj\Debug\02.EncodedAnswers.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 21 February 2016\PBExam21FEB\02.EncodedAnswers\obj\Debug\02.EncodedAnswers.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 21 February 2016\PBExam21FEB\02.EncodedAnswers\obj\Debug\02.EncodedAnswers.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 21 February 2016\PBExam21FEB\02.EncodedAnswers\obj\Debug\02.EncodedAnswers.pdb

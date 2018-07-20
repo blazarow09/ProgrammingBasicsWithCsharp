@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\Solution1\Axe\bin\Debug\Axe.exe.config
+C:\Users\E6420\source\repos\Solution1\Axe\bin\Debug\Axe.exe
+C:\Users\E6420\source\repos\Solution1\Axe\bin\Debug\Axe.pdb
+C:\Users\E6420\source\repos\Solution1\Axe\obj\Debug\Axe.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\Solution1\Axe\obj\Debug\Axe.exe
+C:\Users\E6420\source\repos\Solution1\Axe\obj\Debug\Axe.pdb

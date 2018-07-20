@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\SimpleConditions\AreaOfFigures\obj\Debug\AreaOfFigures.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\SimpleConditions\AreaOfFigures\obj\Debug\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\SimpleConditions\AreaOfFigures\bin\Debug\AreaOfFigures.exe.config
+C:\Users\E6420\source\repos\SimpleConditions\AreaOfFigures\bin\Debug\AreaOfFigures.exe
+C:\Users\E6420\source\repos\SimpleConditions\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+C:\Users\E6420\source\repos\SimpleConditions\AreaOfFigures\obj\Debug\AreaOfFigures.exe
+C:\Users\E6420\source\repos\SimpleConditions\AreaOfFigures\obj\Debug\AreaOfFigures.pdb

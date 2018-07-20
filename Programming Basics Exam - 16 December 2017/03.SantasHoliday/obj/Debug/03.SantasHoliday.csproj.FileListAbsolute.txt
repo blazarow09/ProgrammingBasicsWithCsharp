@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\03.SantasHoliday\bin\Debug\03.SantasHoliday.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\03.SantasHoliday\bin\Debug\03.SantasHoliday.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\03.SantasHoliday\bin\Debug\03.SantasHoliday.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\03.SantasHoliday\obj\Debug\03.SantasHoliday.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\03.SantasHoliday\obj\Debug\03.SantasHoliday.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\03.SantasHoliday\obj\Debug\03.SantasHoliday.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\03.SantasHoliday\obj\Debug\03.SantasHoliday.csprojResolveAssemblyReference.cache

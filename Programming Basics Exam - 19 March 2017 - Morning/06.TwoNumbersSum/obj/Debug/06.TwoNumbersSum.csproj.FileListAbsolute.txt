@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\06.TwoNumbersSum\bin\Debug\06.TwoNumbersSum.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\06.TwoNumbersSum\bin\Debug\06.TwoNumbersSum.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\06.TwoNumbersSum\bin\Debug\06.TwoNumbersSum.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\06.TwoNumbersSum\obj\Debug\06.TwoNumbersSum.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\06.TwoNumbersSum\obj\Debug\06.TwoNumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\06.TwoNumbersSum\obj\Debug\06.TwoNumbersSum.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\06.TwoNumbersSum\obj\Debug\06.TwoNumbersSum.pdb

@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\03.CourierExpress\bin\Debug\03.CourierExpress.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\03.CourierExpress\bin\Debug\03.CourierExpress.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\03.CourierExpress\bin\Debug\03.CourierExpress.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\03.CourierExpress\obj\Debug\03.CourierExpress.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\03.CourierExpress\obj\Debug\03.CourierExpress.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\03.CourierExpress\obj\Debug\03.CourierExpress.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\03.CourierExpress\obj\Debug\03.CourierExpress.pdb

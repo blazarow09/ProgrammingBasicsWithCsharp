@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\ExamPreparation\Autonomy\bin\Debug\Autonomy.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\Autonomy\bin\Debug\Autonomy.exe
+C:\Users\E6420\source\repos\ExamPreparation\Autonomy\bin\Debug\Autonomy.pdb
+C:\Users\E6420\source\repos\ExamPreparation\Autonomy\obj\Debug\Autonomy.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ExamPreparation\Autonomy\obj\Debug\Autonomy.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\Autonomy\obj\Debug\Autonomy.exe
+C:\Users\E6420\source\repos\ExamPreparation\Autonomy\obj\Debug\Autonomy.pdb

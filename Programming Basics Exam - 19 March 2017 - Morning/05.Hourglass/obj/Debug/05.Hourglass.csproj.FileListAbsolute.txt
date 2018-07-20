@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\05.Hourglass\bin\Debug\05.Hourglass.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\05.Hourglass\bin\Debug\05.Hourglass.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\05.Hourglass\bin\Debug\05.Hourglass.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\05.Hourglass\obj\Debug\05.Hourglass.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\05.Hourglass\obj\Debug\05.Hourglass.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\05.Hourglass\obj\Debug\05.Hourglass.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Morning\PBExam19March2017Morning\05.Hourglass\obj\Debug\05.Hourglass.pdb

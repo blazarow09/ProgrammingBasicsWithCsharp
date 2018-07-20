@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\ExamPreparation\NumberGenerator\bin\Debug\NumberGenerator.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\NumberGenerator\bin\Debug\NumberGenerator.exe
+C:\Users\E6420\source\repos\ExamPreparation\NumberGenerator\bin\Debug\NumberGenerator.pdb
+C:\Users\E6420\source\repos\ExamPreparation\NumberGenerator\obj\Debug\NumberGenerator.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ExamPreparation\NumberGenerator\obj\Debug\NumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\NumberGenerator\obj\Debug\NumberGenerator.exe
+C:\Users\E6420\source\repos\ExamPreparation\NumberGenerator\obj\Debug\NumberGenerator.pdb

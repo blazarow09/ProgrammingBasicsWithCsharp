@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\02.WorkHours\bin\Debug\02.WorkHours.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\02.WorkHours\bin\Debug\02.WorkHours.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\02.WorkHours\bin\Debug\02.WorkHours.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\02.WorkHours\obj\Debug\02.WorkHours.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\02.WorkHours\obj\Debug\02.WorkHours.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\02.WorkHours\obj\Debug\02.WorkHours.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\02.WorkHours\obj\Debug\02.WorkHours.pdb

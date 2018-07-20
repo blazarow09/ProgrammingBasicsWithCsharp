@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\Solution1\SoftUniLogo\bin\Debug\SoftUniLogo.exe.config
+C:\Users\E6420\source\repos\Solution1\SoftUniLogo\bin\Debug\SoftUniLogo.exe
+C:\Users\E6420\source\repos\Solution1\SoftUniLogo\bin\Debug\SoftUniLogo.pdb
+C:\Users\E6420\source\repos\Solution1\SoftUniLogo\obj\Debug\SoftUniLogo.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\Solution1\SoftUniLogo\obj\Debug\SoftUniLogo.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\Solution1\SoftUniLogo\obj\Debug\SoftUniLogo.exe
+C:\Users\E6420\source\repos\Solution1\SoftUniLogo\obj\Debug\SoftUniLogo.pdb

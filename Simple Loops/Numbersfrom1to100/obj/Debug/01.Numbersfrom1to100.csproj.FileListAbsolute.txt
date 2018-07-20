@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\05.SimpleLoops\05.SimpleLoops\bin\Debug\05.SimpleLoops.exe.config
+C:\Users\34802\source\repos\05.SimpleLoops\05.SimpleLoops\bin\Debug\05.SimpleLoops.exe
+C:\Users\34802\source\repos\05.SimpleLoops\05.SimpleLoops\bin\Debug\05.SimpleLoops.pdb
+C:\Users\34802\source\repos\05.SimpleLoops\05.SimpleLoops\obj\Debug\01.Numbersfrom1to100.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\05.SimpleLoops\05.SimpleLoops\obj\Debug\01.Numbersfrom1to100.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\05.SimpleLoops\05.SimpleLoops\obj\Debug\05.SimpleLoops.exe
+C:\Users\34802\source\repos\05.SimpleLoops\05.SimpleLoops\obj\Debug\05.SimpleLoops.pdb

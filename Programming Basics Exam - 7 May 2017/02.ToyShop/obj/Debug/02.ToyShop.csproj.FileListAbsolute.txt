@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\02.ToyShop\bin\Debug\02.ToyShop.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\02.ToyShop\bin\Debug\02.ToyShop.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\02.ToyShop\bin\Debug\02.ToyShop.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\02.ToyShop\obj\Debug\02.ToyShop.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\02.ToyShop\obj\Debug\02.ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\02.ToyShop\obj\Debug\02.ToyShop.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\02.ToyShop\obj\Debug\02.ToyShop.pdb

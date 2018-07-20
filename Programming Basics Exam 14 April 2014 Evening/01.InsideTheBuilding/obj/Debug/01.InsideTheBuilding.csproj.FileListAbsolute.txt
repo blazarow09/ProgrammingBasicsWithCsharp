@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\C# Basics Exam 14 April 2014 Evening\PBExam14APRIL2014\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\C# Basics Exam 14 April 2014 Evening\PBExam14APRIL2014\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\C# Basics Exam 14 April 2014 Evening\PBExam14APRIL2014\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\C# Basics Exam 14 April 2014 Evening\PBExam14APRIL2014\01.InsideTheBuilding\obj\Debug\01.InsideTheBuilding.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\C# Basics Exam 14 April 2014 Evening\PBExam14APRIL2014\01.InsideTheBuilding\obj\Debug\01.InsideTheBuilding.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\C# Basics Exam 14 April 2014 Evening\PBExam14APRIL2014\01.InsideTheBuilding\obj\Debug\01.InsideTheBuilding.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\C# Basics Exam 14 April 2014 Evening\PBExam14APRIL2014\01.InsideTheBuilding\obj\Debug\01.InsideTheBuilding.pdb

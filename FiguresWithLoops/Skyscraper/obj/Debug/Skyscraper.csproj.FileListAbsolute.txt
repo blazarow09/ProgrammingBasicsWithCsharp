@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\Solution1\Skyscraper\bin\Debug\Skyscraper.exe.config
+C:\Users\E6420\source\repos\Solution1\Skyscraper\bin\Debug\Skyscraper.exe
+C:\Users\E6420\source\repos\Solution1\Skyscraper\bin\Debug\Skyscraper.pdb
+C:\Users\E6420\source\repos\Solution1\Skyscraper\obj\Debug\Skyscraper.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\Solution1\Skyscraper\obj\Debug\Skyscraper.exe
+C:\Users\E6420\source\repos\Solution1\Skyscraper\obj\Debug\Skyscraper.pdb

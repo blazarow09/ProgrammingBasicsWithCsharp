@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\05.Java\bin\Debug\05.Java.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\05.Java\bin\Debug\05.Java.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\05.Java\bin\Debug\05.Java.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\05.Java\obj\Debug\05.Java.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\05.Java\obj\Debug\05.Java.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\05.Java\obj\Debug\05.Java.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\05.Java\obj\Debug\05.Java.pdb

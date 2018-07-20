@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\04.BackToThePast\bin\Debug\04.BackToThePast.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\04.BackToThePast\bin\Debug\04.BackToThePast.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\04.BackToThePast\bin\Debug\04.BackToThePast.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\04.BackToThePast\obj\Debug\04.BackToThePast.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\04.BackToThePast\obj\Debug\04.BackToThePast.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\04.BackToThePast\obj\Debug\04.BackToThePast.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 July 2016\PBExam17July2016\04.BackToThePast\obj\Debug\04.BackToThePast.pdb

@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\02.ChangeTiles\bin\Debug\02.ChangeTiles.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\02.ChangeTiles\bin\Debug\02.ChangeTiles.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\02.ChangeTiles\bin\Debug\02.ChangeTiles.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\02.ChangeTiles\obj\Debug\02.ChangeTiles.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\02.ChangeTiles\obj\Debug\02.ChangeTiles.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\02.ChangeTiles\obj\Debug\02.ChangeTiles.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\02.ChangeTiles\obj\Debug\02.ChangeTiles.pdb

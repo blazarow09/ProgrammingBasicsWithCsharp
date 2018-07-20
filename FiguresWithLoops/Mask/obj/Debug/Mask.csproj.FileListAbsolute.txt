@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\Solution1\Mask\bin\Debug\Mask.exe.config
+C:\Users\E6420\source\repos\Solution1\Mask\bin\Debug\Mask.exe
+C:\Users\E6420\source\repos\Solution1\Mask\bin\Debug\Mask.pdb
+C:\Users\E6420\source\repos\Solution1\Mask\obj\Debug\Mask.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\Solution1\Mask\obj\Debug\Mask.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\Solution1\Mask\obj\Debug\Mask.exe
+C:\Users\E6420\source\repos\Solution1\Mask\obj\Debug\Mask.pdb

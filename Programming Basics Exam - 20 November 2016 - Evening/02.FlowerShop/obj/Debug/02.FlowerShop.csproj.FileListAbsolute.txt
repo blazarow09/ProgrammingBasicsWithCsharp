@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\02.FlowerShop\bin\Debug\02.FlowerShop.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\02.FlowerShop\bin\Debug\02.FlowerShop.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\02.FlowerShop\bin\Debug\02.FlowerShop.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\02.FlowerShop\obj\Debug\02.FlowerShop.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\02.FlowerShop\obj\Debug\02.FlowerShop.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\02.FlowerShop\obj\Debug\02.FlowerShop.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Evening\PBExam20November2016Evening\02.FlowerShop\obj\Debug\02.FlowerShop.pdb

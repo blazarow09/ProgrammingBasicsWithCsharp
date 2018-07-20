@@ -1,0 +1,14 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\10.Diamond\bin\Debug\10.Diamond.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\10.Diamond\bin\Debug\10.Diamond.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\10.Diamond\bin\Debug\10.Diamond.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\10.Diamond\obj\Debug\10.Diamond.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\10.Diamond\obj\Debug\10.Diamond.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\10.Diamond\obj\Debug\10.Diamond.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\10.Diamond\obj\Debug\10.Diamond.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\06.DrawingFigureswithLoops\10.Diamond\bin\Debug\10.Diamond.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\06.DrawingFigureswithLoops\10.Diamond\bin\Debug\10.Diamond.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\06.DrawingFigureswithLoops\10.Diamond\bin\Debug\10.Diamond.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\06.DrawingFigureswithLoops\10.Diamond\obj\Debug\10.Diamond.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\06.DrawingFigureswithLoops\10.Diamond\obj\Debug\10.Diamond.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\06.DrawingFigureswithLoops\10.Diamond\obj\Debug\10.Diamond.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\06.DrawingFigureswithLoops\10.Diamond\obj\Debug\10.Diamond.pdb

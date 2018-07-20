@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\OnlineExam28April2018\ProgrammingBookTwo\bin\Debug\ProgrammingBookTwo.exe.config
+C:\Users\E6420\source\repos\OnlineExam28April2018\ProgrammingBookTwo\bin\Debug\ProgrammingBookTwo.exe
+C:\Users\E6420\source\repos\OnlineExam28April2018\ProgrammingBookTwo\bin\Debug\ProgrammingBookTwo.pdb
+C:\Users\E6420\source\repos\OnlineExam28April2018\ProgrammingBookTwo\obj\Debug\ProgrammingBookTwo.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\OnlineExam28April2018\ProgrammingBookTwo\obj\Debug\ProgrammingBookTwo.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\OnlineExam28April2018\ProgrammingBookTwo\obj\Debug\ProgrammingBookTwo.exe
+C:\Users\E6420\source\repos\OnlineExam28April2018\ProgrammingBookTwo\obj\Debug\ProgrammingBookTwo.pdb

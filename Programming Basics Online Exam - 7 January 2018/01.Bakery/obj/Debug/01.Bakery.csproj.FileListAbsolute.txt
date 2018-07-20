@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\01.Bakery\bin\Debug\01.Bakery.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\01.Bakery\bin\Debug\01.Bakery.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\01.Bakery\bin\Debug\01.Bakery.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\01.Bakery\obj\Debug\01.Bakery.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\01.Bakery\obj\Debug\01.Bakery.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\01.Bakery\obj\Debug\01.Bakery.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\01.Bakery\obj\Debug\01.Bakery.pdb

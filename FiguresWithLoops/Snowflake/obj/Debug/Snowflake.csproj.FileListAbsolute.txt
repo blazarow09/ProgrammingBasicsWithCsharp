@@ -1,0 +1,14 @@
+C:\Users\E6420\source\repos\Solution1\Snowflake\bin\Debug\Snowflake.exe.config
+C:\Users\E6420\source\repos\Solution1\Snowflake\bin\Debug\Snowflake.exe
+C:\Users\E6420\source\repos\Solution1\Snowflake\bin\Debug\Snowflake.pdb
+C:\Users\E6420\source\repos\Solution1\Snowflake\obj\Debug\Snowflake.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\Solution1\Snowflake\obj\Debug\Snowflake.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\Solution1\Snowflake\obj\Debug\Snowflake.exe
+C:\Users\E6420\source\repos\Solution1\Snowflake\obj\Debug\Snowflake.pdb
+C:\Users\E6420\source\repos\FiguresWithLoops\Snowflake\bin\Debug\Snowflake.exe.config
+C:\Users\E6420\source\repos\FiguresWithLoops\Snowflake\bin\Debug\Snowflake.exe
+C:\Users\E6420\source\repos\FiguresWithLoops\Snowflake\bin\Debug\Snowflake.pdb
+C:\Users\E6420\source\repos\FiguresWithLoops\Snowflake\obj\Debug\Snowflake.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\FiguresWithLoops\Snowflake\obj\Debug\Snowflake.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\FiguresWithLoops\Snowflake\obj\Debug\Snowflake.exe
+C:\Users\E6420\source\repos\FiguresWithLoops\Snowflake\obj\Debug\Snowflake.pdb

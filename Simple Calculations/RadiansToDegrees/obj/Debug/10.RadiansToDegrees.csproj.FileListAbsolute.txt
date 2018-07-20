@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\Sumator\10.RadiansToDegrees\bin\Debug\10.RadiansToDegrees.exe.config
+C:\Users\34802\source\repos\Sumator\10.RadiansToDegrees\bin\Debug\10.RadiansToDegrees.exe
+C:\Users\34802\source\repos\Sumator\10.RadiansToDegrees\bin\Debug\10.RadiansToDegrees.pdb
+C:\Users\34802\source\repos\Sumator\10.RadiansToDegrees\obj\Debug\10.RadiansToDegrees.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\Sumator\10.RadiansToDegrees\obj\Debug\10.RadiansToDegrees.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\Sumator\10.RadiansToDegrees\obj\Debug\10.RadiansToDegrees.exe
+C:\Users\34802\source\repos\Sumator\10.RadiansToDegrees\obj\Debug\10.RadiansToDegrees.pdb

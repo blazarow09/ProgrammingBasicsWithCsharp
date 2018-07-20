@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\04.GrandpaStavri\bin\Debug\04.GrandpaStavri.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\04.GrandpaStavri\bin\Debug\04.GrandpaStavri.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\04.GrandpaStavri\bin\Debug\04.GrandpaStavri.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\04.GrandpaStavri\obj\Debug\04.GrandpaStavri.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\04.GrandpaStavri\obj\Debug\04.GrandpaStavri.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\04.GrandpaStavri\obj\Debug\04.GrandpaStavri.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\04.GrandpaStavri\obj\Debug\04.GrandpaStavri.pdb

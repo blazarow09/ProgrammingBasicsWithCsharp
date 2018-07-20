@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\06.BarcodeGenerator\bin\Debug\06.BarcodeGenerator.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\06.BarcodeGenerator\bin\Debug\06.BarcodeGenerator.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\06.BarcodeGenerator\bin\Debug\06.BarcodeGenerator.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\06.BarcodeGenerator\obj\Debug\06.BarcodeGenerator.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\06.BarcodeGenerator\obj\Debug\06.BarcodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\06.BarcodeGenerator\obj\Debug\06.BarcodeGenerator.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\06.BarcodeGenerator\obj\Debug\06.BarcodeGenerator.pdb

@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\OnlineExam28April2018\OnlineEducation\bin\Debug\OnlineEducation.exe.config
+C:\Users\E6420\source\repos\OnlineExam28April2018\OnlineEducation\bin\Debug\OnlineEducation.exe
+C:\Users\E6420\source\repos\OnlineExam28April2018\OnlineEducation\bin\Debug\OnlineEducation.pdb
+C:\Users\E6420\source\repos\OnlineExam28April2018\OnlineEducation\obj\Debug\OnlineEducation.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\OnlineExam28April2018\OnlineEducation\obj\Debug\OnlineEducation.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\OnlineExam28April2018\OnlineEducation\obj\Debug\OnlineEducation.exe
+C:\Users\E6420\source\repos\OnlineExam28April2018\OnlineEducation\obj\Debug\OnlineEducation.pdb

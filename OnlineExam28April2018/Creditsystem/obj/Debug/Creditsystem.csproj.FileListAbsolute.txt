@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\OnlineExam28April2018\Creditsystem\bin\Debug\Creditsystem.exe.config
+C:\Users\E6420\source\repos\OnlineExam28April2018\Creditsystem\bin\Debug\Creditsystem.exe
+C:\Users\E6420\source\repos\OnlineExam28April2018\Creditsystem\bin\Debug\Creditsystem.pdb
+C:\Users\E6420\source\repos\OnlineExam28April2018\Creditsystem\obj\Debug\Creditsystem.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\OnlineExam28April2018\Creditsystem\obj\Debug\Creditsystem.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\OnlineExam28April2018\Creditsystem\obj\Debug\Creditsystem.exe
+C:\Users\E6420\source\repos\OnlineExam28April2018\Creditsystem\obj\Debug\Creditsystem.pdb

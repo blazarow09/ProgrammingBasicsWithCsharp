@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\06.LuckyNumbers\bin\Debug\06.LuckyNumbers.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\06.LuckyNumbers\bin\Debug\06.LuckyNumbers.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\06.LuckyNumbers\bin\Debug\06.LuckyNumbers.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\06.LuckyNumbers\obj\Debug\06.LuckyNumbers.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\06.LuckyNumbers\obj\Debug\06.LuckyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\06.LuckyNumbers\obj\Debug\06.LuckyNumbers.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 05 November 2017\PBBasicsExam05November2017\06.LuckyNumbers\obj\Debug\06.LuckyNumbers.pdb

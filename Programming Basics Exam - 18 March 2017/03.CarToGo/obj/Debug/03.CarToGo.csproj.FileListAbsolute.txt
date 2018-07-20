@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\03.CarToGo\bin\Debug\03.CarToGo.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\03.CarToGo\bin\Debug\03.CarToGo.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\03.CarToGo\bin\Debug\03.CarToGo.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\03.CarToGo\obj\Debug\03.CarToGo.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\03.CarToGo\obj\Debug\03.CarToGo.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\03.CarToGo\obj\Debug\03.CarToGo.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 March 2017\01.PBExam18March2017\03.CarToGo\obj\Debug\03.CarToGo.pdb

@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\ExamPreparation\Sword\bin\Debug\Sword.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\Sword\bin\Debug\Sword.exe
+C:\Users\E6420\source\repos\ExamPreparation\Sword\bin\Debug\Sword.pdb
+C:\Users\E6420\source\repos\ExamPreparation\Sword\obj\Debug\Sword.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\Sword\obj\Debug\Sword.exe
+C:\Users\E6420\source\repos\ExamPreparation\Sword\obj\Debug\Sword.pdb
+C:\Users\E6420\source\repos\ExamPreparation\Sword\obj\Debug\Sword.csprojResolveAssemblyReference.cache

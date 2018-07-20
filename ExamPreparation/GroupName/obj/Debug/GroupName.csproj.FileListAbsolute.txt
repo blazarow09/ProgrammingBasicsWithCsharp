@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\ExamPreparation\GroupName\bin\Debug\GroupName.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\GroupName\bin\Debug\GroupName.exe
+C:\Users\E6420\source\repos\ExamPreparation\GroupName\bin\Debug\GroupName.pdb
+C:\Users\E6420\source\repos\ExamPreparation\GroupName\obj\Debug\GroupName.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ExamPreparation\GroupName\obj\Debug\GroupName.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\GroupName\obj\Debug\GroupName.exe
+C:\Users\E6420\source\repos\ExamPreparation\GroupName\obj\Debug\GroupName.pdb

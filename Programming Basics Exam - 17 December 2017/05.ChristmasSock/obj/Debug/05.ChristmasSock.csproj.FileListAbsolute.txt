@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\05.ChristmasSock\bin\Debug\05.ChristmasSock.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\05.ChristmasSock\bin\Debug\05.ChristmasSock.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\05.ChristmasSock\bin\Debug\05.ChristmasSock.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\05.ChristmasSock\obj\Debug\05.ChristmasSock.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\05.ChristmasSock\obj\Debug\05.ChristmasSock.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\05.ChristmasSock\obj\Debug\05.ChristmasSock.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\05.ChristmasSock\obj\Debug\05.ChristmasSock.pdb

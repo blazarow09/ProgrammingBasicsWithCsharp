@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\03.FruityCocktails\bin\Debug\03.FruityCocktails.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\03.FruityCocktails\bin\Debug\03.FruityCocktails.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\03.FruityCocktails\bin\Debug\03.FruityCocktails.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\03.FruityCocktails\obj\Debug\03.FruityCocktails.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\03.FruityCocktails\obj\Debug\03.FruityCocktails.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\03.FruityCocktails\obj\Debug\03.FruityCocktails.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 25 June 2017\PBExam25June2017\03.FruityCocktails\obj\Debug\03.FruityCocktails.pdb

@@ -1,0 +1,7 @@
+c:\users\34802\source\repos\TretaLekciq\TradeComissions\bin\Debug\TradeComissions.exe.config
+c:\users\34802\source\repos\TretaLekciq\TradeComissions\bin\Debug\TradeComissions.exe
+c:\users\34802\source\repos\TretaLekciq\TradeComissions\bin\Debug\TradeComissions.pdb
+c:\users\34802\source\repos\TretaLekciq\TradeComissions\obj\Debug\TradeComissions.csprojResolveAssemblyReference.cache
+c:\users\34802\source\repos\TretaLekciq\TradeComissions\obj\Debug\TradeComissions.csproj.CoreCompileInputs.cache
+c:\users\34802\source\repos\TretaLekciq\TradeComissions\obj\Debug\TradeComissions.exe
+c:\users\34802\source\repos\TretaLekciq\TradeComissions\obj\Debug\TradeComissions.pdb

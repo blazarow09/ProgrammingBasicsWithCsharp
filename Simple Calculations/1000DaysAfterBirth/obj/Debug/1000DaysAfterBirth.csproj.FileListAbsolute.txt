@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\Sumator\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe.config
+C:\Users\34802\source\repos\Sumator\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe
+C:\Users\34802\source\repos\Sumator\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.pdb
+C:\Users\34802\source\repos\Sumator\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\Sumator\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\Sumator\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.exe
+C:\Users\34802\source\repos\Sumator\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.pdb

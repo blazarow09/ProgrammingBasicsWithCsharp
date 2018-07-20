@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\03.Aquapark\bin\Debug\03.Aquapark.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\03.Aquapark\bin\Debug\03.Aquapark.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\03.Aquapark\bin\Debug\03.Aquapark.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\03.Aquapark\obj\Debug\03.Aquapark.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\03.Aquapark\obj\Debug\03.Aquapark.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\03.Aquapark\obj\Debug\03.Aquapark.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\03.Aquapark\obj\Debug\03.Aquapark.pdb

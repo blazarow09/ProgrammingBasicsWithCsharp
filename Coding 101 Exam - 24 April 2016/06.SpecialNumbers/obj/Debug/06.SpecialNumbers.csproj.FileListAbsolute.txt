@@ -1,0 +1,6 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\06.SpecialNumbers\bin\Debug\06.SpecialNumbers.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\06.SpecialNumbers\bin\Debug\06.SpecialNumbers.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\06.SpecialNumbers\bin\Debug\06.SpecialNumbers.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\06.SpecialNumbers\obj\Debug\06.SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\06.SpecialNumbers\obj\Debug\06.SpecialNumbers.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\06.SpecialNumbers\obj\Debug\06.SpecialNumbers.pdb

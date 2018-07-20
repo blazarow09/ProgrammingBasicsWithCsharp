@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\PBExam20November2016Morning\PBExam20November2016Morning\bin\Debug\PBExam20November2016Morning.exe.config
+C:\Users\34802\source\repos\PBExam20November2016Morning\PBExam20November2016Morning\bin\Debug\PBExam20November2016Morning.exe
+C:\Users\34802\source\repos\PBExam20November2016Morning\PBExam20November2016Morning\bin\Debug\PBExam20November2016Morning.pdb
+C:\Users\34802\source\repos\PBExam20November2016Morning\PBExam20November2016Morning\obj\Debug\01.Fishland.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\PBExam20November2016Morning\PBExam20November2016Morning\obj\Debug\01.Fishland.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\PBExam20November2016Morning\PBExam20November2016Morning\obj\Debug\PBExam20November2016Morning.exe
+C:\Users\34802\source\repos\PBExam20November2016Morning\PBExam20November2016Morning\obj\Debug\PBExam20November2016Morning.pdb

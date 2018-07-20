@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\05.Parallelepiped\bin\Debug\05.Parallelepiped.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\05.Parallelepiped\bin\Debug\05.Parallelepiped.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\05.Parallelepiped\bin\Debug\05.Parallelepiped.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\05.Parallelepiped\obj\Debug\05.Parallelepiped.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\05.Parallelepiped\obj\Debug\05.Parallelepiped.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\05.Parallelepiped\obj\Debug\05.Parallelepiped.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\05.Parallelepiped\obj\Debug\05.Parallelepiped.pdb

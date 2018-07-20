@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\Solution1\Demo\bin\Debug\Demo.exe.config
+C:\Users\E6420\source\repos\Solution1\Demo\bin\Debug\Demo.exe
+C:\Users\E6420\source\repos\Solution1\Demo\bin\Debug\Demo.pdb
+C:\Users\E6420\source\repos\Solution1\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\Solution1\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\Solution1\Demo\obj\Debug\Demo.exe
+C:\Users\E6420\source\repos\Solution1\Demo\obj\Debug\Demo.pdb

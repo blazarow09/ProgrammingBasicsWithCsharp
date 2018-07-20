@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\04.Salary\bin\Debug\04.Salary.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\04.Salary\bin\Debug\04.Salary.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\04.Salary\bin\Debug\04.Salary.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\04.Salary\obj\Debug\04.Salary.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\04.Salary\obj\Debug\04.Salary.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\04.Salary\obj\Debug\04.Salary.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Online Exam - 7 January 2018\01.Sandbox\04.Salary\obj\Debug\04.Salary.pdb

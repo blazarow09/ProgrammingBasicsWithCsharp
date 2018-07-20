@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\05.ChristmasHat\bin\Debug\05.ChristmasHat.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\05.ChristmasHat\bin\Debug\05.ChristmasHat.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\05.ChristmasHat\bin\Debug\05.ChristmasHat.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\05.ChristmasHat\obj\Debug\05.ChristmasHat.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\05.ChristmasHat\obj\Debug\05.ChristmasHat.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\05.ChristmasHat\obj\Debug\05.ChristmasHat.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\05.ChristmasHat\obj\Debug\05.ChristmasHat.pdb

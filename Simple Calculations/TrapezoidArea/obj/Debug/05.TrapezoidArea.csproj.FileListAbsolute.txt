@@ -1,0 +1,6 @@
+C:\Users\34802\source\repos\Sumator\05.TrapezoidArea\bin\Debug\05.TrapezoidArea.exe.config
+C:\Users\34802\source\repos\Sumator\05.TrapezoidArea\bin\Debug\05.TrapezoidArea.exe
+C:\Users\34802\source\repos\Sumator\05.TrapezoidArea\bin\Debug\05.TrapezoidArea.pdb
+C:\Users\34802\source\repos\Sumator\05.TrapezoidArea\obj\Debug\05.TrapezoidArea.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\Sumator\05.TrapezoidArea\obj\Debug\05.TrapezoidArea.exe
+C:\Users\34802\source\repos\Sumator\05.TrapezoidArea\obj\Debug\05.TrapezoidArea.pdb

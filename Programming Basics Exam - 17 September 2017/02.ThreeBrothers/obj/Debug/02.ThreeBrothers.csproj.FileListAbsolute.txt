@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\02.ThreeBrothers\bin\Debug\02.ThreeBrothers.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\02.ThreeBrothers\bin\Debug\02.ThreeBrothers.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\02.ThreeBrothers\bin\Debug\02.ThreeBrothers.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\02.ThreeBrothers\obj\Debug\02.ThreeBrothers.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\02.ThreeBrothers\obj\Debug\02.ThreeBrothers.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\02.ThreeBrothers\obj\Debug\02.ThreeBrothers.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 September 2017\PBExam17September2017\02.ThreeBrothers\obj\Debug\02.ThreeBrothers.pdb

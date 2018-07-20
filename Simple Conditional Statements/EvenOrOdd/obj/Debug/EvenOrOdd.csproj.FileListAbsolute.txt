@@ -1,0 +1,6 @@
+C:\Users\34802\source\repos\SimpleConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+C:\Users\34802\source\repos\SimpleConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+C:\Users\34802\source\repos\SimpleConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+C:\Users\34802\source\repos\SimpleConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\SimpleConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+C:\Users\34802\source\repos\SimpleConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

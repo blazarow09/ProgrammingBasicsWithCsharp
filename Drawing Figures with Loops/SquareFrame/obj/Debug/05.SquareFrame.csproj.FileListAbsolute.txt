@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.exe.config
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.exe
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.pdb
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.exe
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.pdb

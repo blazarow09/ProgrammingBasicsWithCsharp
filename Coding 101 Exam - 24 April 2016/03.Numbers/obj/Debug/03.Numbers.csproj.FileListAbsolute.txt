@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\03.Numbers\bin\Debug\03.Numbers.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\03.Numbers\bin\Debug\03.Numbers.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\03.Numbers\bin\Debug\03.Numbers.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\03.Numbers\obj\Debug\03.Numbers.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\03.Numbers\obj\Debug\03.Numbers.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\03.Numbers\obj\Debug\03.Numbers.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 24 April 2016\PBExam24April2016\03.Numbers\obj\Debug\03.Numbers.pdb

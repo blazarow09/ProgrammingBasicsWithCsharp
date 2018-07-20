@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\02.Pets\bin\Debug\02.Pets.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\02.Pets\bin\Debug\02.Pets.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\02.Pets\bin\Debug\02.Pets.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\02.Pets\obj\Debug\02.Pets.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\02.Pets\obj\Debug\02.Pets.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\02.Pets\obj\Debug\02.Pets.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 20 November 2016 - Morning\PBExam20November2016Morning\02.Pets\obj\Debug\02.Pets.pdb

@@ -1,0 +1,6 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\08.Sunglasses\bin\Debug\08.Sunglasses.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\08.Sunglasses\bin\Debug\08.Sunglasses.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\08.Sunglasses\bin\Debug\08.Sunglasses.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\08.Sunglasses\obj\Debug\08.Sunglasses.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\08.Sunglasses\obj\Debug\08.Sunglasses.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\07.DrawingFigureswithLoops\08.Sunglasses\obj\Debug\08.Sunglasses.pdb

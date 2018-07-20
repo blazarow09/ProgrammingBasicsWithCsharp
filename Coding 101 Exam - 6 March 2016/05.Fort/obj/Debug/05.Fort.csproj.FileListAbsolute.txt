@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\05.Fort\bin\Debug\05.Fort.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\05.Fort\bin\Debug\05.Fort.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\05.Fort\bin\Debug\05.Fort.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\05.Fort\obj\Debug\05.Fort.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\05.Fort\obj\Debug\05.Fort.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\05.Fort\obj\Debug\05.Fort.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\05.Fort\obj\Debug\05.Fort.pdb

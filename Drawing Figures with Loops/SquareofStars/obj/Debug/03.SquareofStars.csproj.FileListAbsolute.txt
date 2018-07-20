@@ -1,0 +1,6 @@
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\03.SquareofStars\obj\Debug\03.SquareofStars.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\03.SquareofStars\bin\Debug\03.SquareofStars.exe.config
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\03.SquareofStars\bin\Debug\03.SquareofStars.exe
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\03.SquareofStars\bin\Debug\03.SquareofStars.pdb
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\03.SquareofStars\obj\Debug\03.SquareofStars.exe
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\03.SquareofStars\obj\Debug\03.SquareofStars.pdb

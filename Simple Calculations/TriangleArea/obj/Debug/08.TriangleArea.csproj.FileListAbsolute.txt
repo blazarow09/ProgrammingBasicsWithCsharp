@@ -1,0 +1,6 @@
+C:\Users\34802\source\repos\Sumator\08.TriangleArea\bin\Debug\08.TriangleArea.exe.config
+C:\Users\34802\source\repos\Sumator\08.TriangleArea\bin\Debug\08.TriangleArea.exe
+C:\Users\34802\source\repos\Sumator\08.TriangleArea\bin\Debug\08.TriangleArea.pdb
+C:\Users\34802\source\repos\Sumator\08.TriangleArea\obj\Debug\08.TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\Sumator\08.TriangleArea\obj\Debug\08.TriangleArea.exe
+C:\Users\34802\source\repos\Sumator\08.TriangleArea\obj\Debug\08.TriangleArea.pdb

@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\Solution1\Margarita\bin\Debug\Margarita.exe.config
+C:\Users\E6420\source\repos\Solution1\Margarita\bin\Debug\Margarita.exe
+C:\Users\E6420\source\repos\Solution1\Margarita\bin\Debug\Margarita.pdb
+C:\Users\E6420\source\repos\Solution1\Margarita\obj\Debug\Margarita.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\Solution1\Margarita\obj\Debug\Margarita.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\Solution1\Margarita\obj\Debug\Margarita.exe
+C:\Users\E6420\source\repos\Solution1\Margarita\obj\Debug\Margarita.pdb

@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\tretaLekciq\numberFrom0To100\bin\Debug\numberFrom0To100.exe.config
+C:\Users\34802\Desktop\tretaLekciq\numberFrom0To100\bin\Debug\numberFrom0To100.exe
+C:\Users\34802\Desktop\tretaLekciq\numberFrom0To100\bin\Debug\numberFrom0To100.pdb
+C:\Users\34802\Desktop\tretaLekciq\numberFrom0To100\obj\Debug\numberFrom0To100.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\tretaLekciq\numberFrom0To100\obj\Debug\numberFrom0To100.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\tretaLekciq\numberFrom0To100\obj\Debug\numberFrom0To100.exe
+C:\Users\34802\Desktop\tretaLekciq\numberFrom0To100\obj\Debug\numberFrom0To100.pdb

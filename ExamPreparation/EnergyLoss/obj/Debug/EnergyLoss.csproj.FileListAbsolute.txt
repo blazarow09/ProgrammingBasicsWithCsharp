@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\ExamPreparation\EnergyLoss\bin\Debug\EnergyLoss.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\EnergyLoss\bin\Debug\EnergyLoss.exe
+C:\Users\E6420\source\repos\ExamPreparation\EnergyLoss\bin\Debug\EnergyLoss.pdb
+C:\Users\E6420\source\repos\ExamPreparation\EnergyLoss\obj\Debug\EnergyLoss.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ExamPreparation\EnergyLoss\obj\Debug\EnergyLoss.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\EnergyLoss\obj\Debug\EnergyLoss.exe
+C:\Users\E6420\source\repos\ExamPreparation\EnergyLoss\obj\Debug\EnergyLoss.pdb

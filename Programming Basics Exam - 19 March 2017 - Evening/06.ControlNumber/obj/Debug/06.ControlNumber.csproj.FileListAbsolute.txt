@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\06.ControlNumber\bin\Debug\06.ControlNumber.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\06.ControlNumber\bin\Debug\06.ControlNumber.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\06.ControlNumber\bin\Debug\06.ControlNumber.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\06.ControlNumber\obj\Debug\06.ControlNumber.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\06.ControlNumber\obj\Debug\06.ControlNumber.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\06.ControlNumber\obj\Debug\06.ControlNumber.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\06.ControlNumber\obj\Debug\06.ControlNumber.pdb

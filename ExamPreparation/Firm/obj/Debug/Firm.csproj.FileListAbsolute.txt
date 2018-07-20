@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\ExamPreparation\Firm\bin\Debug\Firm.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\Firm\bin\Debug\Firm.exe
+C:\Users\E6420\source\repos\ExamPreparation\Firm\bin\Debug\Firm.pdb
+C:\Users\E6420\source\repos\ExamPreparation\Firm\obj\Debug\Firm.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\Firm\obj\Debug\Firm.exe
+C:\Users\E6420\source\repos\ExamPreparation\Firm\obj\Debug\Firm.pdb

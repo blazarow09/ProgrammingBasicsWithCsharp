@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\SimpleConditions\ExcellentOrNot\bin\Debug\ExcellentOrNot.exe.config
+C:\Users\E6420\source\repos\SimpleConditions\ExcellentOrNot\bin\Debug\ExcellentOrNot.exe
+C:\Users\E6420\source\repos\SimpleConditions\ExcellentOrNot\bin\Debug\ExcellentOrNot.pdb
+C:\Users\E6420\source\repos\SimpleConditions\ExcellentOrNot\obj\Debug\ExcellentOrNot.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\SimpleConditions\ExcellentOrNot\obj\Debug\ExcellentOrNot.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\SimpleConditions\ExcellentOrNot\obj\Debug\ExcellentOrNot.exe
+C:\Users\E6420\source\repos\SimpleConditions\ExcellentOrNot\obj\Debug\ExcellentOrNot.pdb

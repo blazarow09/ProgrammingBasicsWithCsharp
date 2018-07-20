@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\ExamPreparation\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\E6420\source\repos\ExamPreparation\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\E6420\source\repos\ExamPreparation\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\SlotMachine\obj\Debug\SlotMachine.exe
+C:\Users\E6420\source\repos\ExamPreparation\SlotMachine\obj\Debug\SlotMachine.pdb

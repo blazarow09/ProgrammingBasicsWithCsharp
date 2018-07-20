@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\SimpleConditions\SpeedInfo\bin\Debug\SpeedInfo.exe.config
+C:\Users\E6420\source\repos\SimpleConditions\SpeedInfo\bin\Debug\SpeedInfo.exe
+C:\Users\E6420\source\repos\SimpleConditions\SpeedInfo\bin\Debug\SpeedInfo.pdb
+C:\Users\E6420\source\repos\SimpleConditions\SpeedInfo\obj\Debug\SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\SimpleConditions\SpeedInfo\obj\Debug\SpeedInfo.exe
+C:\Users\E6420\source\repos\SimpleConditions\SpeedInfo\obj\Debug\SpeedInfo.pdb

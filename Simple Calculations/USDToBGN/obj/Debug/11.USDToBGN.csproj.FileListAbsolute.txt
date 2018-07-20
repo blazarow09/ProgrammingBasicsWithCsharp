@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\Sumator\11.USDToBGN\bin\Debug\11.USDToBGN.exe.config
+C:\Users\34802\source\repos\Sumator\11.USDToBGN\bin\Debug\11.USDToBGN.exe
+C:\Users\34802\source\repos\Sumator\11.USDToBGN\bin\Debug\11.USDToBGN.pdb
+C:\Users\34802\source\repos\Sumator\11.USDToBGN\obj\Debug\11.USDToBGN.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\Sumator\11.USDToBGN\obj\Debug\11.USDToBGN.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\Sumator\11.USDToBGN\obj\Debug\11.USDToBGN.exe
+C:\Users\34802\source\repos\Sumator\11.USDToBGN\obj\Debug\11.USDToBGN.pdb

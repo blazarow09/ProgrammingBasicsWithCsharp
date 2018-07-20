@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\01.DeerОfSanta\bin\Debug\01.DeerОfSanta.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\01.DeerОfSanta\bin\Debug\01.DeerОfSanta.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\01.DeerОfSanta\bin\Debug\01.DeerОfSanta.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\01.DeerОfSanta\obj\Debug\02.DeerОfSanta.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\01.DeerОfSanta\obj\Debug\02.DeerОfSanta.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\01.DeerОfSanta\obj\Debug\01.DeerОfSanta.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\01.DeerОfSanta\obj\Debug\01.DeerОfSanta.pdb

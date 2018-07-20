@@ -1,0 +1,7 @@
+c:\users\34802\source\repos\TretaLekciq\FruitShop\bin\Debug\FruitShop.exe.config
+c:\users\34802\source\repos\TretaLekciq\FruitShop\bin\Debug\FruitShop.exe
+c:\users\34802\source\repos\TretaLekciq\FruitShop\bin\Debug\FruitShop.pdb
+c:\users\34802\source\repos\TretaLekciq\FruitShop\obj\Debug\FruitShop.csprojResolveAssemblyReference.cache
+c:\users\34802\source\repos\TretaLekciq\FruitShop\obj\Debug\FruitShop.csproj.CoreCompileInputs.cache
+c:\users\34802\source\repos\TretaLekciq\FruitShop\obj\Debug\FruitShop.exe
+c:\users\34802\source\repos\TretaLekciq\FruitShop\obj\Debug\FruitShop.pdb

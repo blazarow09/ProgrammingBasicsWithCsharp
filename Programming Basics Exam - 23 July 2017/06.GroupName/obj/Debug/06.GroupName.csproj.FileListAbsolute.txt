@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 23 July 2017\PBExam23July2017\06.GroupName\bin\Debug\06.GroupName.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 23 July 2017\PBExam23July2017\06.GroupName\bin\Debug\06.GroupName.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 23 July 2017\PBExam23July2017\06.GroupName\bin\Debug\06.GroupName.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 23 July 2017\PBExam23July2017\06.GroupName\obj\Debug\06.GroupName.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 23 July 2017\PBExam23July2017\06.GroupName\obj\Debug\06.GroupName.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 23 July 2017\PBExam23July2017\06.GroupName\obj\Debug\06.GroupName.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 23 July 2017\PBExam23July2017\06.GroupName\obj\Debug\06.GroupName.pdb

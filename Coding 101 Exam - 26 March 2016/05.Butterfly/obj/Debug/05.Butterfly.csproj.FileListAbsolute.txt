@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\05.Butterfly\bin\Debug\05.Butterfly.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\05.Butterfly\bin\Debug\05.Butterfly.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\05.Butterfly\bin\Debug\05.Butterfly.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\05.Butterfly\obj\Debug\05.Butterfly.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\05.Butterfly\obj\Debug\05.Butterfly.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\05.Butterfly\obj\Debug\05.Butterfly.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\05.Butterfly\obj\Debug\05.Butterfly.pdb

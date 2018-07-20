@@ -1,0 +1,6 @@
+C:\Users\34802\source\repos\05.SimpleLoops\02.NumbersEndingin7\bin\Debug\02.NumbersEndingin7.exe.config
+C:\Users\34802\source\repos\05.SimpleLoops\02.NumbersEndingin7\bin\Debug\02.NumbersEndingin7.exe
+C:\Users\34802\source\repos\05.SimpleLoops\02.NumbersEndingin7\bin\Debug\02.NumbersEndingin7.pdb
+C:\Users\34802\source\repos\05.SimpleLoops\02.NumbersEndingin7\obj\Debug\02.NumbersEndingin7.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\05.SimpleLoops\02.NumbersEndingin7\obj\Debug\02.NumbersEndingin7.exe
+C:\Users\34802\source\repos\05.SimpleLoops\02.NumbersEndingin7\obj\Debug\02.NumbersEndingin7.pdb

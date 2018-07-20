@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\04.Delenie\obj\Debug\04.Delenie.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\04.Delenie\obj\Debug\04.Delenie.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\04.Delenie\bin\Debug\04.Delenie.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\04.Delenie\bin\Debug\04.Delenie.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\04.Delenie\bin\Debug\04.Delenie.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\04.Delenie\obj\Debug\04.Delenie.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 26 March 2016\PBExam26March2016\04.Delenie\obj\Debug\04.Delenie.pdb

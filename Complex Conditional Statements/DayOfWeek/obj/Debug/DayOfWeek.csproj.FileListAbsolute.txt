@@ -1,0 +1,6 @@
+c:\users\34802\source\repos\TretaLekciq\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+c:\users\34802\source\repos\TretaLekciq\DayOfWeek\bin\Debug\DayOfWeek.exe
+c:\users\34802\source\repos\TretaLekciq\DayOfWeek\bin\Debug\DayOfWeek.pdb
+c:\users\34802\source\repos\TretaLekciq\DayOfWeek\obj\Debug\DayOfWeek.csproj.CoreCompileInputs.cache
+c:\users\34802\source\repos\TretaLekciq\DayOfWeek\obj\Debug\DayOfWeek.exe
+c:\users\34802\source\repos\TretaLekciq\DayOfWeek\obj\Debug\DayOfWeek.pdb

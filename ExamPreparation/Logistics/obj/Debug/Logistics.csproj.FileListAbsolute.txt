@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\ExamPreparation\Logistics\bin\Debug\Logistics.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\Logistics\bin\Debug\Logistics.exe
+C:\Users\E6420\source\repos\ExamPreparation\Logistics\bin\Debug\Logistics.pdb
+C:\Users\E6420\source\repos\ExamPreparation\Logistics\obj\Debug\Logistics.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\Logistics\obj\Debug\Logistics.exe
+C:\Users\E6420\source\repos\ExamPreparation\Logistics\obj\Debug\Logistics.pdb

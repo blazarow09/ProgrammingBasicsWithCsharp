@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\ExamPreparation\FlowersShop\bin\Debug\FlowersShop.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\FlowersShop\bin\Debug\FlowersShop.exe
+C:\Users\E6420\source\repos\ExamPreparation\FlowersShop\bin\Debug\FlowersShop.pdb
+C:\Users\E6420\source\repos\ExamPreparation\FlowersShop\obj\Debug\FlowersShop.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\FlowersShop\obj\Debug\FlowersShop.exe
+C:\Users\E6420\source\repos\ExamPreparation\FlowersShop\obj\Debug\FlowersShop.pdb

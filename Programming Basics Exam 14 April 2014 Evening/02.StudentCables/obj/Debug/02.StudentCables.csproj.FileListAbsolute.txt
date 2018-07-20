@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\C# Basics Exam 14 April 2014 Evening\PBExam14APRIL2014\02.StudentCables\bin\Debug\02.StudentCables.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\C# Basics Exam 14 April 2014 Evening\PBExam14APRIL2014\02.StudentCables\bin\Debug\02.StudentCables.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\C# Basics Exam 14 April 2014 Evening\PBExam14APRIL2014\02.StudentCables\bin\Debug\02.StudentCables.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\C# Basics Exam 14 April 2014 Evening\PBExam14APRIL2014\02.StudentCables\obj\Debug\02.StudentCables.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\C# Basics Exam 14 April 2014 Evening\PBExam14APRIL2014\02.StudentCables\obj\Debug\02.StudentCables.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\C# Basics Exam 14 April 2014 Evening\PBExam14APRIL2014\02.StudentCables\obj\Debug\02.StudentCables.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\C# Basics Exam 14 April 2014 Evening\PBExam14APRIL2014\02.StudentCables\obj\Debug\02.StudentCables.pdb

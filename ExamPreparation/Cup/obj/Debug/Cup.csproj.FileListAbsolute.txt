@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\ExamPreparation\Cup\bin\Debug\Cup.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\Cup\bin\Debug\Cup.exe
+C:\Users\E6420\source\repos\ExamPreparation\Cup\bin\Debug\Cup.pdb
+C:\Users\E6420\source\repos\ExamPreparation\Cup\obj\Debug\Cup.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\Cup\obj\Debug\Cup.exe
+C:\Users\E6420\source\repos\ExamPreparation\Cup\obj\Debug\Cup.pdb
+C:\Users\E6420\source\repos\ExamPreparation\Cup\obj\Debug\Cup.csprojResolveAssemblyReference.cache

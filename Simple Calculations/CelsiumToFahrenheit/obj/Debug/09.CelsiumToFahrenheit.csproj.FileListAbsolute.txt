@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\Sumator\09.CelsiumToFahrenheit\bin\Debug\09.CelsiumToFahrenheit.exe.config
+C:\Users\34802\source\repos\Sumator\09.CelsiumToFahrenheit\bin\Debug\09.CelsiumToFahrenheit.exe
+C:\Users\34802\source\repos\Sumator\09.CelsiumToFahrenheit\bin\Debug\09.CelsiumToFahrenheit.pdb
+C:\Users\34802\source\repos\Sumator\09.CelsiumToFahrenheit\obj\Debug\09.CelsiumToFahrenheit.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\Sumator\09.CelsiumToFahrenheit\obj\Debug\09.CelsiumToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\Sumator\09.CelsiumToFahrenheit\obj\Debug\09.CelsiumToFahrenheit.exe
+C:\Users\34802\source\repos\Sumator\09.CelsiumToFahrenheit\obj\Debug\09.CelsiumToFahrenheit.pdb

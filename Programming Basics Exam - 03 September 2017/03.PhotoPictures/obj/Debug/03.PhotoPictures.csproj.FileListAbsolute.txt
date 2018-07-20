@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\03.PhotoPictures\bin\Debug\03.PhotoPictures.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\03.PhotoPictures\bin\Debug\03.PhotoPictures.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\03.PhotoPictures\bin\Debug\03.PhotoPictures.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\03.PhotoPictures\obj\Debug\03.PhotoPictures.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\03.PhotoPictures\obj\Debug\03.PhotoPictures.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\03.PhotoPictures\obj\Debug\03.PhotoPictures.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\03.PhotoPictures\obj\Debug\03.PhotoPictures.pdb

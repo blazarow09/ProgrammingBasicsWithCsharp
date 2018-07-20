@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 23 July 2017\PBExam23July2017\05.Cup\bin\Debug\05.Cup.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 23 July 2017\PBExam23July2017\05.Cup\bin\Debug\05.Cup.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 23 July 2017\PBExam23July2017\05.Cup\bin\Debug\05.Cup.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 23 July 2017\PBExam23July2017\05.Cup\obj\Debug\05.Cup.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 23 July 2017\PBExam23July2017\05.Cup\obj\Debug\05.Cup.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 23 July 2017\PBExam23July2017\05.Cup\obj\Debug\05.Cup.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 23 July 2017\PBExam23July2017\05.Cup\obj\Debug\05.Cup.pdb

@@ -1,0 +1,6 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\06.NumberGenerator_Second\bin\Debug\06.NumberGenerator_Second.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\06.NumberGenerator_Second\bin\Debug\06.NumberGenerator_Second.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\06.NumberGenerator_Second\bin\Debug\06.NumberGenerator_Second.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\06.NumberGenerator_Second\obj\Debug\06.NumberGenerator_Second.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\06.NumberGenerator_Second\obj\Debug\06.NumberGenerator_Second.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 7 May 2017\PBExam7May2017\06.NumberGenerator_Second\obj\Debug\06.NumberGenerator_Second.pdb

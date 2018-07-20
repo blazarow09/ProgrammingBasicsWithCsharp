@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\ExamPreparation\Profit\bin\Debug\Profit.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\Profit\bin\Debug\Profit.exe
+C:\Users\E6420\source\repos\ExamPreparation\Profit\bin\Debug\Profit.pdb
+C:\Users\E6420\source\repos\ExamPreparation\Profit\obj\Debug\Profit.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ExamPreparation\Profit\obj\Debug\Profit.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\Profit\obj\Debug\Profit.exe
+C:\Users\E6420\source\repos\ExamPreparation\Profit\obj\Debug\Profit.pdb

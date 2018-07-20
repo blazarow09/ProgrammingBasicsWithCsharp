@@ -1,0 +1,7 @@
+C:\Users\34802\source\repos\05.SimpleLoops\05.MaxNumber\bin\Debug\05.MaxNumber.exe.config
+C:\Users\34802\source\repos\05.SimpleLoops\05.MaxNumber\bin\Debug\05.MaxNumber.exe
+C:\Users\34802\source\repos\05.SimpleLoops\05.MaxNumber\bin\Debug\05.MaxNumber.pdb
+C:\Users\34802\source\repos\05.SimpleLoops\05.MaxNumber\obj\Debug\05.MaxNumber.csprojResolveAssemblyReference.cache
+C:\Users\34802\source\repos\05.SimpleLoops\05.MaxNumber\obj\Debug\05.MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\05.SimpleLoops\05.MaxNumber\obj\Debug\05.MaxNumber.exe
+C:\Users\34802\source\repos\05.SimpleLoops\05.MaxNumber\obj\Debug\05.MaxNumber.pdb

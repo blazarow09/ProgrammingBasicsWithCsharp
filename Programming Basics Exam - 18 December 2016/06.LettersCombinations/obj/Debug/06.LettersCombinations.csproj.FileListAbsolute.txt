@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\06.LettersCombinations\bin\Debug\06.LettersCombinations.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\06.LettersCombinations\bin\Debug\06.LettersCombinations.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\06.LettersCombinations\bin\Debug\06.LettersCombinations.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\06.LettersCombinations\obj\Debug\06.LettersCombinations.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\06.LettersCombinations\obj\Debug\06.LettersCombinations.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\06.LettersCombinations\obj\Debug\06.LettersCombinations.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 18 December 2016\01.PBExam18December2016\06.LettersCombinations\obj\Debug\06.LettersCombinations.pdb

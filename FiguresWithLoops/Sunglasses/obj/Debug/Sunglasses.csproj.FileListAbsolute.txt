@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\Solution1\Sunglasses\bin\Debug\Sunglasses.exe.config
+C:\Users\E6420\source\repos\Solution1\Sunglasses\bin\Debug\Sunglasses.exe
+C:\Users\E6420\source\repos\Solution1\Sunglasses\bin\Debug\Sunglasses.pdb
+C:\Users\E6420\source\repos\Solution1\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\Solution1\Sunglasses\obj\Debug\Sunglasses.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\Solution1\Sunglasses\obj\Debug\Sunglasses.exe
+C:\Users\E6420\source\repos\Solution1\Sunglasses\obj\Debug\Sunglasses.pdb

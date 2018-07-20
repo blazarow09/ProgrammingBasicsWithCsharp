@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\03.OnTimeForTheExam\bin\Debug\03.OnTimeForTheExam.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\03.OnTimeForTheExam\bin\Debug\03.OnTimeForTheExam.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\03.OnTimeForTheExam\bin\Debug\03.OnTimeForTheExam.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\03.OnTimeForTheExam\obj\Debug\03.OnTimeForTheExam.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\03.OnTimeForTheExam\obj\Debug\03.OnTimeForTheExam.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\03.OnTimeForTheExam\obj\Debug\03.OnTimeForTheExam.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Coding 101 Exam - 6 March 2016\PBExam6March2016\03.OnTimeForTheExam\obj\Debug\03.OnTimeForTheExam.pdb

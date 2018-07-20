@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\04.Cake\bin\Debug\04.Cake.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\04.Cake\bin\Debug\04.Cake.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\04.Cake\bin\Debug\04.Cake.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\04.Cake\obj\Debug\04.Cake.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\04.Cake\obj\Debug\04.Cake.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\04.Cake\obj\Debug\04.Cake.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 03 September 2017\PBExam03September2017\04.Cake\obj\Debug\04.Cake.pdb

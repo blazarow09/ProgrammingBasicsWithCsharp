@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\03.DwarfPresents\bin\Debug\03.DwarfPresents.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\03.DwarfPresents\bin\Debug\03.DwarfPresents.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\03.DwarfPresents\bin\Debug\03.DwarfPresents.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\03.DwarfPresents\obj\Debug\04.DwarfPresents.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\03.DwarfPresents\obj\Debug\04.DwarfPresents.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\03.DwarfPresents\obj\Debug\03.DwarfPresents.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 16 December 2017\PBExam16December2017\03.DwarfPresents\obj\Debug\03.DwarfPresents.pdb

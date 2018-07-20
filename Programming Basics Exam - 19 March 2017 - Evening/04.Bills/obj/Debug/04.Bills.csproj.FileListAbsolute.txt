@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\04.Bills\bin\Debug\04.Bills.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\04.Bills\bin\Debug\04.Bills.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\04.Bills\bin\Debug\04.Bills.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\04.Bills\obj\Debug\04.Bills.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\04.Bills\obj\Debug\04.Bills.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\04.Bills\obj\Debug\04.Bills.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 19 March 2017 - Evening\PBExam19March2017Evening\04.Bills\obj\Debug\04.Bills.pdb

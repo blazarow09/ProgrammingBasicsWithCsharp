@@ -1,0 +1,6 @@
+C:\Users\34802\source\repos\05.SimpleLoops\03.LatinLetters\bin\Debug\03.LatinLetters.exe.config
+C:\Users\34802\source\repos\05.SimpleLoops\03.LatinLetters\bin\Debug\03.LatinLetters.exe
+C:\Users\34802\source\repos\05.SimpleLoops\03.LatinLetters\bin\Debug\03.LatinLetters.pdb
+C:\Users\34802\source\repos\05.SimpleLoops\03.LatinLetters\obj\Debug\03.LatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\05.SimpleLoops\03.LatinLetters\obj\Debug\03.LatinLetters.exe
+C:\Users\34802\source\repos\05.SimpleLoops\03.LatinLetters\obj\Debug\03.LatinLetters.pdb

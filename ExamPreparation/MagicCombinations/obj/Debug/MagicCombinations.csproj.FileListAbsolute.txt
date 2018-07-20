@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\ExamPreparation\MagicCombinations\bin\Debug\MagicCombinations.exe.config
+C:\Users\E6420\source\repos\ExamPreparation\MagicCombinations\bin\Debug\MagicCombinations.exe
+C:\Users\E6420\source\repos\ExamPreparation\MagicCombinations\bin\Debug\MagicCombinations.pdb
+C:\Users\E6420\source\repos\ExamPreparation\MagicCombinations\obj\Debug\MagicCombinations.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ExamPreparation\MagicCombinations\obj\Debug\MagicCombinations.exe
+C:\Users\E6420\source\repos\ExamPreparation\MagicCombinations\obj\Debug\MagicCombinations.pdb

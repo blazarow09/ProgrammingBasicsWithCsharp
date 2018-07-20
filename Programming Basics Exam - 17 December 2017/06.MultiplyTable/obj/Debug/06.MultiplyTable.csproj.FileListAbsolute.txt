@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\06.MultiplyTable\bin\Debug\06.MultiplyTable.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\06.MultiplyTable\bin\Debug\06.MultiplyTable.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\06.MultiplyTable\bin\Debug\06.MultiplyTable.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\06.MultiplyTable\obj\Debug\06.MultiplyTable.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\06.MultiplyTable\obj\Debug\06.MultiplyTable.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\06.MultiplyTable\obj\Debug\06.MultiplyTable.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 17 December 2017\PBExam17December2017\06.MultiplyTable\obj\Debug\06.MultiplyTable.pdb

@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\02.Firm\bin\Debug\02.Firm.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\02.Firm\bin\Debug\02.Firm.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\02.Firm\bin\Debug\02.Firm.pdb
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\02.Firm\obj\Debug\02.Firm.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\02.Firm\obj\Debug\02.Firm.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\02.Firm\obj\Debug\02.Firm.exe
+C:\Users\34802\Desktop\СОФТУНИ\Programming basics\Programming Basics Exam - 28 August 2016\PBExam28August2016\02.Firm\obj\Debug\02.Firm.pdb

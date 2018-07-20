@@ -1,0 +1,10 @@
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\Shopping\bin\Debug\netcoreapp2.0\Shopping.deps.json
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\Shopping\bin\Debug\netcoreapp2.0\Shopping.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\Shopping\bin\Debug\netcoreapp2.0\Shopping.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\Shopping\bin\Debug\netcoreapp2.0\Shopping.dll
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\Shopping\bin\Debug\netcoreapp2.0\Shopping.pdb
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\Shopping\obj\Debug\netcoreapp2.0\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\Shopping\obj\Debug\netcoreapp2.0\Shopping.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\Shopping\obj\Debug\netcoreapp2.0\Shopping.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\Shopping\obj\Debug\netcoreapp2.0\Shopping.dll
+C:\Users\E6420\source\repos\ProgrammingBasics\ExamPreparation\Shopping\obj\Debug\netcoreapp2.0\Shopping.pdb

@@ -1,0 +1,6 @@
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\04.TriangleofDollars\bin\Debug\04.TriangleofDollars.exe.config
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\04.TriangleofDollars\bin\Debug\04.TriangleofDollars.exe
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\04.TriangleofDollars\bin\Debug\04.TriangleofDollars.pdb
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\04.TriangleofDollars\obj\Debug\04.TriangleofDollars.csproj.CoreCompileInputs.cache
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\04.TriangleofDollars\obj\Debug\04.TriangleofDollars.exe
+C:\Users\34802\source\repos\07.DrawingFigureswithLoops\04.TriangleofDollars\obj\Debug\04.TriangleofDollars.pdb
