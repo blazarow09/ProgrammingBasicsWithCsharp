@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ChrismassPreparation\bin\Debug\ChrismassPreparation.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ChrismassPreparation\bin\Debug\ChrismassPreparation.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ChrismassPreparation\bin\Debug\ChrismassPreparation.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ChrismassPreparation\obj\Debug\ChrismassPreparation.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ChrismassPreparation\obj\Debug\ChrismassPreparation.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ChrismassPreparation\obj\Debug\ChrismassPreparation.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ChrismassPreparation\obj\Debug\ChrismassPreparation.pdb

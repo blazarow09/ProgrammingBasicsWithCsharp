@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Poll\bin\Debug\Poll.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Poll\bin\Debug\Poll.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Poll\bin\Debug\Poll.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Poll\obj\Debug\Poll.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Poll\obj\Debug\Poll.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Poll\obj\Debug\Poll.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Poll\obj\Debug\Poll.pdb

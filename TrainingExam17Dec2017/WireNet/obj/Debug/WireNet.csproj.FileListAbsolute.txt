@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\WireNet\bin\Debug\WireNet.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\WireNet\bin\Debug\WireNet.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\WireNet\bin\Debug\WireNet.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\WireNet\obj\Debug\WireNet.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\WireNet\obj\Debug\WireNet.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\WireNet\obj\Debug\WireNet.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\WireNet\obj\Debug\WireNet.pdb

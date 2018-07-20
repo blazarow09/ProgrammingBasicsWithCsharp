@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Aquapark\bin\Debug\Aquapark.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Aquapark\bin\Debug\Aquapark.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Aquapark\bin\Debug\Aquapark.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Aquapark\obj\Debug\Aquapark.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Aquapark\obj\Debug\Aquapark.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Aquapark\obj\Debug\Aquapark.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Aquapark\obj\Debug\Aquapark.pdb

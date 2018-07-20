@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\TrainingLab\bin\Debug\TrainingLab.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\TrainingLab\bin\Debug\TrainingLab.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\TrainingLab\bin\Debug\TrainingLab.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\TrainingLab\obj\Debug\TransportPrice.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\TrainingLab\obj\Debug\TransportPrice.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\TrainingLab\obj\Debug\TrainingLab.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\TrainingLab\obj\Debug\TrainingLab.pdb

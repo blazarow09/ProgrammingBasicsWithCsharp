@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ToyShop\bin\Debug\ToyShop.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ToyShop\bin\Debug\ToyShop.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ToyShop\bin\Debug\ToyShop.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ToyShop\obj\Debug\ToyShop.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ToyShop\obj\Debug\ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ToyShop\obj\Debug\ToyShop.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ToyShop\obj\Debug\ToyShop.pdb

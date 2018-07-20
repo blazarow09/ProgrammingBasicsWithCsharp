@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Illidan\bin\Debug\Illidan.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Illidan\bin\Debug\Illidan.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Illidan\bin\Debug\Illidan.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Illidan\obj\Debug\Illidan.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Illidan\obj\Debug\Illidan.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Illidan\obj\Debug\Illidan.pdb

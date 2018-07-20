@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\SchoolCamp\bin\Debug\SchoolCamp.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\SchoolCamp\bin\Debug\SchoolCamp.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\SchoolCamp\bin\Debug\SchoolCamp.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\SchoolCamp\obj\Debug\SchoolCamp.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\SchoolCamp\obj\Debug\SchoolCamp.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\SchoolCamp\obj\Debug\SchoolCamp.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\SchoolCamp\obj\Debug\SchoolCamp.pdb

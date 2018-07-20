@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\GrandpaStavri\bin\Debug\GrandpaStavri.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\GrandpaStavri\bin\Debug\GrandpaStavri.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\GrandpaStavri\bin\Debug\GrandpaStavri.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\GrandpaStavri\obj\Debug\GrandpaStavri.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\GrandpaStavri\obj\Debug\GrandpaStavri.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\GrandpaStavri\obj\Debug\GrandpaStavri.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\GrandpaStavri\obj\Debug\GrandpaStavri.pdb

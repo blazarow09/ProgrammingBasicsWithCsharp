@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\CherryJar\bin\Debug\CherryJar.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\CherryJar\bin\Debug\CherryJar.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\CherryJar\bin\Debug\CherryJar.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\CherryJar\obj\Debug\CherryJar.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\CherryJar\obj\Debug\CherryJar.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\CherryJar\obj\Debug\CherryJar.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\CherryJar\obj\Debug\CherryJar.pdb

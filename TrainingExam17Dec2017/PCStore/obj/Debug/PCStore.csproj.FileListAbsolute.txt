@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\PCStore\bin\Debug\PCStore.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\PCStore\bin\Debug\PCStore.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\PCStore\bin\Debug\PCStore.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\PCStore\obj\Debug\PCStore.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\PCStore\obj\Debug\PCStore.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\PCStore\obj\Debug\PCStore.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\PCStore\obj\Debug\PCStore.csprojResolveAssemblyReference.cache

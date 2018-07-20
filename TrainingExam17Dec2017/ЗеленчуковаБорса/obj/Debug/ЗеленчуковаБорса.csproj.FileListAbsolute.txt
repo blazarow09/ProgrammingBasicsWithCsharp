@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ЗеленчуковаБорса\bin\Debug\ЗеленчуковаБорса.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ЗеленчуковаБорса\bin\Debug\ЗеленчуковаБорса.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ЗеленчуковаБорса\bin\Debug\ЗеленчуковаБорса.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ЗеленчуковаБорса\obj\Debug\ЗеленчуковаБорса.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ЗеленчуковаБорса\obj\Debug\ЗеленчуковаБорса.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ЗеленчуковаБорса\obj\Debug\ЗеленчуковаБорса.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ЗеленчуковаБорса\obj\Debug\ЗеленчуковаБорса.pdb

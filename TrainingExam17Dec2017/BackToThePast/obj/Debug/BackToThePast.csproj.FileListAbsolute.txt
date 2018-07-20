@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\BackToThePast\bin\Debug\BackToThePast.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\BackToThePast\bin\Debug\BackToThePast.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\BackToThePast\bin\Debug\BackToThePast.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\BackToThePast\obj\Debug\BackToThePast.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\BackToThePast\obj\Debug\BackToThePast.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\BackToThePast\obj\Debug\BackToThePast.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\BackToThePast\obj\Debug\BackToThePast.pdb

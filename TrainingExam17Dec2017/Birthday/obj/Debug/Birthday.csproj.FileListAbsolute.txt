@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Birthday\bin\Debug\Birthday.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Birthday\bin\Debug\Birthday.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Birthday\bin\Debug\Birthday.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Birthday\obj\Debug\Birthday.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Birthday\obj\Debug\Birthday.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Birthday\obj\Debug\Birthday.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Birthday\obj\Debug\Birthday.pdb

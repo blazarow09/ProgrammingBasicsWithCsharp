@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\DeerOfSanta\bin\Debug\DeerOfSanta.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\DeerOfSanta\bin\Debug\DeerOfSanta.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\DeerOfSanta\bin\Debug\DeerOfSanta.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\DeerOfSanta\obj\Debug\DeerOfSanta.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\DeerOfSanta\obj\Debug\DeerOfSanta.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\DeerOfSanta\obj\Debug\DeerOfSanta.pdb

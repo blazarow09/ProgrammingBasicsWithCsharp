@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ANDProccesors\bin\Debug\ANDProccesors.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ANDProccesors\bin\Debug\ANDProccesors.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ANDProccesors\bin\Debug\ANDProccesors.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ANDProccesors\obj\Debug\ANDProccesors.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ANDProccesors\obj\Debug\ANDProccesors.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ANDProccesors\obj\Debug\ANDProccesors.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ANDProccesors\obj\Debug\ANDProccesors.pdb

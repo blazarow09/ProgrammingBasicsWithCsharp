@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\TheSongOfTheWheels\bin\Debug\TheSongOfTheWheels.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\TheSongOfTheWheels\bin\Debug\TheSongOfTheWheels.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\TheSongOfTheWheels\bin\Debug\TheSongOfTheWheels.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\TheSongOfTheWheels\obj\Debug\TheSongOfTheWheels.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\TheSongOfTheWheels\obj\Debug\TheSongOfTheWheels.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\TheSongOfTheWheels\obj\Debug\TheSongOfTheWheels.pdb

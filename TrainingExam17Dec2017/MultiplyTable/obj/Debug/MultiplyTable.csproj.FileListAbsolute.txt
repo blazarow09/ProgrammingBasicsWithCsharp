@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\MultiplyTable\bin\Debug\MultiplyTable.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\MultiplyTable\bin\Debug\MultiplyTable.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\MultiplyTable\bin\Debug\MultiplyTable.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\MultiplyTable\obj\Debug\MultiplyTable.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\MultiplyTable\obj\Debug\MultiplyTable.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\MultiplyTable\obj\Debug\MultiplyTable.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\MultiplyTable\obj\Debug\MultiplyTable.pdb

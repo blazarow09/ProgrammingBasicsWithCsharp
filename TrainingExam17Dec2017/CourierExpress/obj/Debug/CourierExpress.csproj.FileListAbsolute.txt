@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\CourierExpress\bin\Debug\CourierExpress.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\CourierExpress\bin\Debug\CourierExpress.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\CourierExpress\bin\Debug\CourierExpress.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\CourierExpress\obj\Debug\CourierExpress.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\CourierExpress\obj\Debug\CourierExpress.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\CourierExpress\obj\Debug\CourierExpress.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\CourierExpress\obj\Debug\CourierExpress.pdb

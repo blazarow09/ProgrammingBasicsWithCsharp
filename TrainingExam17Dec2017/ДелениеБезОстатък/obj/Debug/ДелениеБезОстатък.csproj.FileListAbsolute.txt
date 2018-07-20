@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ДелениеБезОстатък\bin\Debug\ДелениеБезОстатък.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ДелениеБезОстатък\bin\Debug\ДелениеБезОстатък.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ДелениеБезОстатък\bin\Debug\ДелениеБезОстатък.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ДелениеБезОстатък\obj\Debug\ДелениеБезОстатък.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ДелениеБезОстатък\obj\Debug\ДелениеБезОстатък.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ДелениеБезОстатък\obj\Debug\ДелениеБезОстатък.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ДелениеБезОстатък\obj\Debug\ДелениеБезОстатък.pdb

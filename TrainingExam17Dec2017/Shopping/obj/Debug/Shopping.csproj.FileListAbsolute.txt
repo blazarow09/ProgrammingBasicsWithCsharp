@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Shopping\bin\Debug\Shopping.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Shopping\bin\Debug\Shopping.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Shopping\bin\Debug\Shopping.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Shopping\obj\Debug\Shopping.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Shopping\obj\Debug\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Shopping\obj\Debug\Shopping.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Shopping\obj\Debug\Shopping.pdb

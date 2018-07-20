@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\MatchTickets\bin\Debug\MatchTickets.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\MatchTickets\bin\Debug\MatchTickets.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\MatchTickets\bin\Debug\MatchTickets.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\MatchTickets\obj\Debug\MatchTickets.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\MatchTickets\obj\Debug\MatchTickets.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\MatchTickets\obj\Debug\MatchTickets.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\MatchTickets\obj\Debug\MatchTickets.csprojResolveAssemblyReference.cache

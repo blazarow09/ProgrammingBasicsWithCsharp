@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Money\bin\Debug\Money.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Money\bin\Debug\Money.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Money\bin\Debug\Money.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Money\obj\Debug\Money.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Money\obj\Debug\Money.pdb

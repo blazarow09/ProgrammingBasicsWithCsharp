@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ТръбиВБасейн\bin\Debug\ТръбиВБасейн.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ТръбиВБасейн\bin\Debug\ТръбиВБасейн.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ТръбиВБасейн\bin\Debug\ТръбиВБасейн.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ТръбиВБасейн\obj\Debug\PipesInPool.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ТръбиВБасейн\obj\Debug\ТръбиВБасейн.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ТръбиВБасейн\obj\Debug\ТръбиВБасейн.pdb

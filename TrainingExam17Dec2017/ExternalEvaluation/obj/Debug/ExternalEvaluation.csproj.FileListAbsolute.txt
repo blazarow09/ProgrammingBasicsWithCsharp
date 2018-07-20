@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ExternalEvaluation\bin\Debug\ExternalEvaluation.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ExternalEvaluation\bin\Debug\ExternalEvaluation.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ExternalEvaluation\bin\Debug\ExternalEvaluation.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ExternalEvaluation\obj\Debug\ExternalEvaluation.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ExternalEvaluation\obj\Debug\ExternalEvaluation.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ExternalEvaluation\obj\Debug\ExternalEvaluation.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ExternalEvaluation\obj\Debug\ExternalEvaluation.pdb

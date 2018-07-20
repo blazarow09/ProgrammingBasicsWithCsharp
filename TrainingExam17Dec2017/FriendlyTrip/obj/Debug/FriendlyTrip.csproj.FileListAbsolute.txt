@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\FriendlyTrip\bin\Debug\FriendlyTrip.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\FriendlyTrip\bin\Debug\FriendlyTrip.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\FriendlyTrip\bin\Debug\FriendlyTrip.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\FriendlyTrip\obj\Debug\FriendlyTrip.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\FriendlyTrip\obj\Debug\FriendlyTrip.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\FriendlyTrip\obj\Debug\FriendlyTrip.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\FriendlyTrip\obj\Debug\FriendlyTrip.pdb

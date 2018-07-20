@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ChristmasToy\bin\Debug\ChristmasToy.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ChristmasToy\bin\Debug\ChristmasToy.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ChristmasToy\bin\Debug\ChristmasToy.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ChristmasToy\obj\Debug\ChristmasToy.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ChristmasToy\obj\Debug\ChristmasToy.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ChristmasToy\obj\Debug\ChristmasToy.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ChristmasToy\obj\Debug\ChristmasToy.csprojResolveAssemblyReference.cache

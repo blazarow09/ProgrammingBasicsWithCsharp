@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Moon\bin\Debug\Moon.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Moon\bin\Debug\Moon.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Moon\bin\Debug\Moon.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Moon\obj\Debug\Moon.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Moon\obj\Debug\Moon.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\Moon\obj\Debug\Moon.pdb

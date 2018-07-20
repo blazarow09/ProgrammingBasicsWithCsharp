@@ -1,0 +1,6 @@
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ThreeBrothers\bin\Debug\ThreeBrothers.exe.config
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ThreeBrothers\bin\Debug\ThreeBrothers.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ThreeBrothers\bin\Debug\ThreeBrothers.pdb
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ThreeBrothers\obj\Debug\ThreeBrothers.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ThreeBrothers\obj\Debug\ThreeBrothers.exe
+C:\Users\E6420\source\repos\TrainingExam17Dec2017\ThreeBrothers\obj\Debug\ThreeBrothers.pdb
