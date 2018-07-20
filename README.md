@@ -1,4 +1,4 @@
-![alt text](http://prikachi.com/images.php?images/230/9373230o.png)
+<p align="center"><img src="https://ibb.co/dfnWtd" width = 250 /></p>
 
 # <a href="https://softuni.bg/trainings/1896/programming-basics-with-csharp-march-2018/open#lesson-7992"><p align="center">Programming Basics with C# - March 2018<p></a>
 
