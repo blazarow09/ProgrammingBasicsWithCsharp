@@ -1,4 +1,4 @@
-<p align="center"><img src="http://prikachi.com/images.php?images/230/9373230o.png" width = 250 /></p>
+<p align="center"><img src="https://www.google.com/search?q=softuni&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiHiqvT3q7cAhVEjywKHSdTAJ4Q_AUICigB&biw=1455&bih=653&dpr=1.1#imgrc=HDosi8gdsS9IgM:" width = 250 /></p>
 
 # <a href="https://softuni.bg/trainings/1896/programming-basics-with-csharp-march-2018/open#lesson-7992"><p align="center">Programming Basics with C# - March 2018<p></a>
 
