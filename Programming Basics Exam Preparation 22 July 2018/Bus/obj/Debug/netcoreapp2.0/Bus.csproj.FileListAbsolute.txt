@@ -1,0 +1,11 @@
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Bus\bin\Debug\netcoreapp2.0\Bus.deps.json
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Bus\bin\Debug\netcoreapp2.0\Bus.runtimeconfig.json
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Bus\bin\Debug\netcoreapp2.0\Bus.runtimeconfig.dev.json
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Bus\bin\Debug\netcoreapp2.0\Bus.dll
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Bus\bin\Debug\netcoreapp2.0\Bus.pdb
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Bus\obj\Debug\netcoreapp2.0\Bus.csprojAssemblyReference.cache
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Bus\obj\Debug\netcoreapp2.0\Bus.csproj.CoreCompileInputs.cache
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Bus\obj\Debug\netcoreapp2.0\Bus.AssemblyInfoInputs.cache
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Bus\obj\Debug\netcoreapp2.0\Bus.AssemblyInfo.cs
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Bus\obj\Debug\netcoreapp2.0\Bus.dll
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Bus\obj\Debug\netcoreapp2.0\Bus.pdb

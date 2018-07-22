@@ -1,0 +1,11 @@
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SeaTrip\bin\Debug\netcoreapp2.0\SeaTrip.deps.json
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SeaTrip\bin\Debug\netcoreapp2.0\SeaTrip.runtimeconfig.json
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SeaTrip\bin\Debug\netcoreapp2.0\SeaTrip.runtimeconfig.dev.json
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SeaTrip\bin\Debug\netcoreapp2.0\SeaTrip.dll
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SeaTrip\bin\Debug\netcoreapp2.0\SeaTrip.pdb
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SeaTrip\obj\Debug\netcoreapp2.0\SeaTrip.csprojAssemblyReference.cache
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SeaTrip\obj\Debug\netcoreapp2.0\SeaTrip.csproj.CoreCompileInputs.cache
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SeaTrip\obj\Debug\netcoreapp2.0\SeaTrip.AssemblyInfoInputs.cache
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SeaTrip\obj\Debug\netcoreapp2.0\SeaTrip.AssemblyInfo.cs
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SeaTrip\obj\Debug\netcoreapp2.0\SeaTrip.dll
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SeaTrip\obj\Debug\netcoreapp2.0\SeaTrip.pdb

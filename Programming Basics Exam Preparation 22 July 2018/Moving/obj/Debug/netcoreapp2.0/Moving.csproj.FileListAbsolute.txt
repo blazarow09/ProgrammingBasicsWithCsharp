@@ -1,0 +1,11 @@
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Moving\bin\Debug\netcoreapp2.0\Moving.deps.json
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Moving\bin\Debug\netcoreapp2.0\Moving.runtimeconfig.json
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Moving\bin\Debug\netcoreapp2.0\Moving.runtimeconfig.dev.json
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Moving\bin\Debug\netcoreapp2.0\Moving.dll
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Moving\bin\Debug\netcoreapp2.0\Moving.pdb
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Moving\obj\Debug\netcoreapp2.0\Moving.csprojAssemblyReference.cache
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Moving\obj\Debug\netcoreapp2.0\Moving.csproj.CoreCompileInputs.cache
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Moving\obj\Debug\netcoreapp2.0\Moving.AssemblyInfoInputs.cache
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Moving\obj\Debug\netcoreapp2.0\Moving.AssemblyInfo.cs
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Moving\obj\Debug\netcoreapp2.0\Moving.dll
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\Moving\obj\Debug\netcoreapp2.0\Moving.pdb

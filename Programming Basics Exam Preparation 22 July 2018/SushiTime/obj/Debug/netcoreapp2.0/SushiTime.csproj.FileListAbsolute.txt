@@ -1,0 +1,10 @@
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SushiTime\bin\Debug\netcoreapp2.0\SushiTime.deps.json
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SushiTime\bin\Debug\netcoreapp2.0\SushiTime.runtimeconfig.json
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SushiTime\bin\Debug\netcoreapp2.0\SushiTime.runtimeconfig.dev.json
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SushiTime\bin\Debug\netcoreapp2.0\SushiTime.dll
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SushiTime\bin\Debug\netcoreapp2.0\SushiTime.pdb
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SushiTime\obj\Debug\netcoreapp2.0\SushiTime.csproj.CoreCompileInputs.cache
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SushiTime\obj\Debug\netcoreapp2.0\SushiTime.AssemblyInfoInputs.cache
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SushiTime\obj\Debug\netcoreapp2.0\SushiTime.AssemblyInfo.cs
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SushiTime\obj\Debug\netcoreapp2.0\SushiTime.dll
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\SushiTime\obj\Debug\netcoreapp2.0\SushiTime.pdb

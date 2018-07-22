@@ -1,0 +1,11 @@
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\MultiplyTable\bin\Debug\netcoreapp2.0\MultiplyTable.deps.json
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\MultiplyTable\bin\Debug\netcoreapp2.0\MultiplyTable.runtimeconfig.json
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\MultiplyTable\bin\Debug\netcoreapp2.0\MultiplyTable.runtimeconfig.dev.json
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\MultiplyTable\bin\Debug\netcoreapp2.0\MultiplyTable.dll
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\MultiplyTable\bin\Debug\netcoreapp2.0\MultiplyTable.pdb
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\MultiplyTable\obj\Debug\netcoreapp2.0\MultiplyTable.csprojAssemblyReference.cache
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\MultiplyTable\obj\Debug\netcoreapp2.0\MultiplyTable.csproj.CoreCompileInputs.cache
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\MultiplyTable\obj\Debug\netcoreapp2.0\MultiplyTable.AssemblyInfoInputs.cache
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\MultiplyTable\obj\Debug\netcoreapp2.0\MultiplyTable.AssemblyInfo.cs
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\MultiplyTable\obj\Debug\netcoreapp2.0\MultiplyTable.dll
+B:\Projects\Programming Basics with C#\Programming Basics Exam Preparation\MultiplyTable\obj\Debug\netcoreapp2.0\MultiplyTable.pdb
