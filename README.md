@@ -13,6 +13,7 @@
 * <a href="https://github.com/blazarow09/ProgrammingBasicsWithCsharp/tree/master/Advanced%20Loops" > Advanced Loops </a>
 
 ## EXAMS
+* <a href="https://github.com/blazarow09/ProgrammingBasicsWithCsharp/tree/master/Programming%20Basics%20Exam%20Preparation%2022%20July%202018" > Programming Basics Exam Preparation 22 July 2018 </a>
 * <a href="https://github.com/blazarow09/ProgrammingBasicsWithCsharp/tree/master/Programming%20Basics%20Online%20Exam%20-%207%20January%202018" > Programming Basics Online Exam - 7 January 2018 </a>
 * <a href="https://github.com/blazarow09/ProgrammingBasicsWithCsharp/tree/master/Programming%20Basics%20Exam%20-%2017%20September%202017" > Programming Basics Exam 17 September 2017 </a>
 * <a href="https://github.com/blazarow09/ProgrammingBasicsWithCsharp/tree/master/Programming%20Basics%20Exam%20-%2003%20September%202017" > Programming Basics Exam 03 September 2017 </a>
