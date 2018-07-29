@@ -1,0 +1,10 @@
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootballKit\bin\Debug\netcoreapp2.0\FootballKit.deps.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootballKit\bin\Debug\netcoreapp2.0\FootballKit.runtimeconfig.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootballKit\bin\Debug\netcoreapp2.0\FootballKit.runtimeconfig.dev.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootballKit\bin\Debug\netcoreapp2.0\FootballKit.dll
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootballKit\bin\Debug\netcoreapp2.0\FootballKit.pdb
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootballKit\obj\Debug\netcoreapp2.0\FootballKit.csproj.CoreCompileInputs.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootballKit\obj\Debug\netcoreapp2.0\FootballKit.AssemblyInfoInputs.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootballKit\obj\Debug\netcoreapp2.0\FootballKit.AssemblyInfo.cs
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootballKit\obj\Debug\netcoreapp2.0\FootballKit.dll
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootballKit\obj\Debug\netcoreapp2.0\FootballKit.pdb

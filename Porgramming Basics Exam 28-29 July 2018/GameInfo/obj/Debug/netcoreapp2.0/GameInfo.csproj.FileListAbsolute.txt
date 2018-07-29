@@ -1,0 +1,11 @@
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\GameInfo\bin\Debug\netcoreapp2.0\GameInfo.deps.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\GameInfo\bin\Debug\netcoreapp2.0\GameInfo.runtimeconfig.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\GameInfo\bin\Debug\netcoreapp2.0\GameInfo.runtimeconfig.dev.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\GameInfo\bin\Debug\netcoreapp2.0\GameInfo.dll
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\GameInfo\bin\Debug\netcoreapp2.0\GameInfo.pdb
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\GameInfo\obj\Debug\netcoreapp2.0\GameInfo.csprojAssemblyReference.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\GameInfo\obj\Debug\netcoreapp2.0\GameInfo.csproj.CoreCompileInputs.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\GameInfo\obj\Debug\netcoreapp2.0\GameInfo.AssemblyInfoInputs.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\GameInfo\obj\Debug\netcoreapp2.0\GameInfo.AssemblyInfo.cs
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\GameInfo\obj\Debug\netcoreapp2.0\GameInfo.dll
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\GameInfo\obj\Debug\netcoreapp2.0\GameInfo.pdb

@@ -1,0 +1,11 @@
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\SeaTrip\bin\Debug\netcoreapp2.0\TripToWorldCup.deps.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\SeaTrip\bin\Debug\netcoreapp2.0\TripToWorldCup.runtimeconfig.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\SeaTrip\bin\Debug\netcoreapp2.0\TripToWorldCup.runtimeconfig.dev.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\SeaTrip\bin\Debug\netcoreapp2.0\TripToWorldCup.dll
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\SeaTrip\bin\Debug\netcoreapp2.0\TripToWorldCup.pdb
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\SeaTrip\obj\Debug\netcoreapp2.0\TripToWorldCup.csprojAssemblyReference.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\SeaTrip\obj\Debug\netcoreapp2.0\TripToWorldCup.csproj.CoreCompileInputs.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\SeaTrip\obj\Debug\netcoreapp2.0\TripToWorldCup.AssemblyInfoInputs.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\SeaTrip\obj\Debug\netcoreapp2.0\TripToWorldCup.AssemblyInfo.cs
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\SeaTrip\obj\Debug\netcoreapp2.0\TripToWorldCup.dll
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\SeaTrip\obj\Debug\netcoreapp2.0\TripToWorldCup.pdb

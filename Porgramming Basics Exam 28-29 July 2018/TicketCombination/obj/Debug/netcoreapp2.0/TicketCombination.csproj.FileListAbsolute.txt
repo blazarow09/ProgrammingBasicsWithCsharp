@@ -1,0 +1,11 @@
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\TicketCombination\bin\Debug\netcoreapp2.0\TicketCombination.deps.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\TicketCombination\bin\Debug\netcoreapp2.0\TicketCombination.runtimeconfig.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\TicketCombination\bin\Debug\netcoreapp2.0\TicketCombination.runtimeconfig.dev.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\TicketCombination\bin\Debug\netcoreapp2.0\TicketCombination.dll
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\TicketCombination\bin\Debug\netcoreapp2.0\TicketCombination.pdb
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\TicketCombination\obj\Debug\netcoreapp2.0\TicketCombination.csprojAssemblyReference.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\TicketCombination\obj\Debug\netcoreapp2.0\TicketCombination.csproj.CoreCompileInputs.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\TicketCombination\obj\Debug\netcoreapp2.0\TicketCombination.AssemblyInfoInputs.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\TicketCombination\obj\Debug\netcoreapp2.0\TicketCombination.AssemblyInfo.cs
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\TicketCombination\obj\Debug\netcoreapp2.0\TicketCombination.dll
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\TicketCombination\obj\Debug\netcoreapp2.0\TicketCombination.pdb

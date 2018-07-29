@@ -1,0 +1,11 @@
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootbalSouvenirs\bin\Debug\netcoreapp2.0\FootbalSouvenirs.deps.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootbalSouvenirs\bin\Debug\netcoreapp2.0\FootbalSouvenirs.runtimeconfig.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootbalSouvenirs\bin\Debug\netcoreapp2.0\FootbalSouvenirs.runtimeconfig.dev.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootbalSouvenirs\bin\Debug\netcoreapp2.0\FootbalSouvenirs.dll
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootbalSouvenirs\bin\Debug\netcoreapp2.0\FootbalSouvenirs.pdb
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootbalSouvenirs\obj\Debug\netcoreapp2.0\FootbalSouvenirs.csprojAssemblyReference.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootbalSouvenirs\obj\Debug\netcoreapp2.0\FootbalSouvenirs.csproj.CoreCompileInputs.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootbalSouvenirs\obj\Debug\netcoreapp2.0\FootbalSouvenirs.AssemblyInfoInputs.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootbalSouvenirs\obj\Debug\netcoreapp2.0\FootbalSouvenirs.AssemblyInfo.cs
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootbalSouvenirs\obj\Debug\netcoreapp2.0\FootbalSouvenirs.dll
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\FootbalSouvenirs\obj\Debug\netcoreapp2.0\FootbalSouvenirs.pdb

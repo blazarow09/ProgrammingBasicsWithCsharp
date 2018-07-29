@@ -1,0 +1,10 @@
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\BestPlayer\bin\Debug\netcoreapp2.0\BestPlayer.deps.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\BestPlayer\bin\Debug\netcoreapp2.0\BestPlayer.runtimeconfig.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\BestPlayer\bin\Debug\netcoreapp2.0\BestPlayer.runtimeconfig.dev.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\BestPlayer\bin\Debug\netcoreapp2.0\BestPlayer.dll
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\BestPlayer\bin\Debug\netcoreapp2.0\BestPlayer.pdb
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\BestPlayer\obj\Debug\netcoreapp2.0\BestPlayer.csproj.CoreCompileInputs.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\BestPlayer\obj\Debug\netcoreapp2.0\BestPlayer.AssemblyInfoInputs.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\BestPlayer\obj\Debug\netcoreapp2.0\BestPlayer.AssemblyInfo.cs
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\BestPlayer\obj\Debug\netcoreapp2.0\BestPlayer.dll
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\BestPlayer\obj\Debug\netcoreapp2.0\BestPlayer.pdb

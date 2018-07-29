@@ -1,0 +1,11 @@
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\Substitute\bin\Debug\netcoreapp2.0\Substitute.deps.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\Substitute\bin\Debug\netcoreapp2.0\Substitute.runtimeconfig.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\Substitute\bin\Debug\netcoreapp2.0\Substitute.runtimeconfig.dev.json
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\Substitute\bin\Debug\netcoreapp2.0\Substitute.dll
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\Substitute\bin\Debug\netcoreapp2.0\Substitute.pdb
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\Substitute\obj\Debug\netcoreapp2.0\Substitute.csproj.CoreCompileInputs.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\Substitute\obj\Debug\netcoreapp2.0\Substitute.AssemblyInfoInputs.cache
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\Substitute\obj\Debug\netcoreapp2.0\Substitute.AssemblyInfo.cs
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\Substitute\obj\Debug\netcoreapp2.0\Substitute.dll
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\Substitute\obj\Debug\netcoreapp2.0\Substitute.pdb
+B:\Projects\Programming Basics with C#\Porgramming Basics Exam 28-29 July 2018\Substitute\obj\Debug\netcoreapp2.0\Substitute.csprojAssemblyReference.cache
