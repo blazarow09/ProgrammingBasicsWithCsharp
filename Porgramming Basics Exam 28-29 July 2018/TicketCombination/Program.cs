@@ -7,8 +7,7 @@ namespace TicketCombination
         static void Main(string[] args)
         {
             var num = int.Parse(Console.ReadLine());
-
-            var comb = 0;
+ 
             for (int j = 66; j <= 76; j+=2)
             {
                 for (int k = 102; k >= 97; k--)
@@ -19,7 +18,6 @@ namespace TicketCombination
                         {
                             for (int p = 10; p >= 1; p--)
                             {
-                                comb++;
                                 if (comb == num)
                                 {
                                     var prize = j + k + m + o + p;
@@ -27,7 +25,6 @@ namespace TicketCombination
                                     Console.WriteLine($"Prize: {prize:f0} lv.");
                                     return;
                                 }
-
                             }
                         }
                     }
