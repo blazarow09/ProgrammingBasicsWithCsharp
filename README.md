@@ -2,7 +2,7 @@
 
 # <a href="https://softuni.bg/trainings/1896/programming-basics-with-csharp-march-2018/open#lesson-7992"><p align="center">Programming Basics with C# - March 2018<p></a>
 
-## <p align="center"> <a href="" > *CERTIFICATE* </a> </p>
+## <p align="center"> <a href="https://softuni.bg/certificates/details/56636/8b08c9d3" > *CERTIFICATE* </a> </p>
 
 ## EXERCISES
 * <a href="https://github.com/blazarow09/ProgrammingBasicsWithCsharp/tree/master/Simple%20Calculations" > Simple Calculations </a>
